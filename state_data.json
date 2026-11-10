@@ -1,0 +1,1107 @@
+{
+ "schemaVersion": 1,
+ "dataVersion": "2026-11-10",
+ "statusLabels": {
+  "confirmed-2027": "Confirmed for 2027",
+  "estimated-from-2026": "Estimated – 2026 date shown in 2027",
+  "estimated-rule-based": "Estimated – from the state's fixed annual rule",
+  "current-window": "Current window (open now)",
+  "missing": "Date not found – check agency site"
+ },
+ "disclaimer": "Dates, point rules and fees change. Estimated dates are NOT official – always confirm on the agency site before applying.",
+ "region": "west",
+ "states": [
+  {
+   "state": "AZ",
+   "state_name": "Arizona",
+   "agency": "Arizona Game & Fish Department",
+   "agency_url": "https://www.azgfd.com/hunting/hunt-draw-and-licenses/big-game-draw/",
+   "point_system": {
+    "type": "bonus",
+    "summary": "Bonus points: one extra random number per point (plus loyalty and hunter-ed bonus points). The draw runs a Bonus Point Pass first, then 1st–2nd choice and 3rd–5th choice passes. Drawing zeroes your bonus points for that species.",
+    "calc": "plus1",
+    "loss_rule": "Loyalty point is lost if you miss a year of applying for that species.",
+    "source_url": "https://www.azgfd.com/hunting/hunt-draw-and-licenses/big-game-draw/bonus-point-process/"
+   },
+   "species": [
+    "Elk",
+    "Pronghorn",
+    "Deer",
+    "Bighorn sheep",
+    "Bison",
+    "Bear",
+    "Turkey",
+    "Javelina"
+   ],
+   "residents_only_notes": "",
+   "deadlines": [
+    {
+     "title": "Elk & pronghorn draw",
+     "species": "Elk, Pronghorn",
+     "date": "2027-02-03",
+     "opens": null,
+     "status": "estimated-from-2026",
+     "date_2026": "2026-02-03",
+     "source_url": "https://www.azgfd.com/2026/01/13/2026-pronghorn-elk-draw-now-open/",
+     "notes": "2026 deadline was Tue Feb 3, 11:59 p.m. AZ time. AZGFD says the 2027 booklet posts in early January."
+    },
+    {
+     "title": "Deer, bighorn sheep, fall bison draw",
+     "species": "Deer, Bighorn sheep, Bison",
+     "date": "2027-06-02",
+     "opens": null,
+     "status": "estimated-from-2026",
+     "date_2026": "2026-06-02",
+     "source_url": "https://www.azgfd.com/2026/05/12/apply-now-for-the-fall-draw/",
+     "notes": "2026 deadline was Tue June 2, 11:59 p.m. AZ time."
+    }
+   ],
+   "results_dates": [],
+   "fees": {
+    "resident": {
+     "Hunting license, application, tags": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    },
+    "nonresident": {
+     "Hunting license, application, tags": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    }
+   },
+   "guide_steps": [
+    "Buy an AZ hunting license (needed to apply).",
+    "Apply online at azgfd.com by species group (elk/pronghorn in Jan–Feb, deer/sheep/bison in May–June).",
+    "Unsuccessful applicants automatically get a bonus point; you can also apply for a point only."
+   ],
+   "sources": [
+    "https://www.azgfd.com/2026/01/13/2026-pronghorn-elk-draw-now-open/",
+    "https://www.azgfd.com/2026/05/12/apply-now-for-the-fall-draw/",
+    "https://www.azgfd.com/hunting/hunt-draw-and-licenses/big-game-draw/",
+    "https://www.azgfd.com/hunting/hunt-draw-and-licenses/big-game-draw/bonus-point-process/"
+   ],
+   "notes": "",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "state": "CA",
+   "state_name": "California",
+   "agency": "California Department of Fish and Wildlife",
+   "agency_url": "https://wildlife.ca.gov/licensing/hunting/big-game",
+   "point_system": {
+    "type": "preference",
+    "summary": "Modified-Preference Point system for premium deer, elk, pronghorn AND bighorn sheep (CCR Title 14 §708.14): part of each quota goes by points (highest first), the rest by random draw-by-choice. One point per unsuccessful year (deer: first choice only). Correction: CDFW’s rule uses modified preference points for bighorn sheep too, not a separate bonus system.",
+    "calc": "rank",
+    "loss_rule": null,
+    "source_url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=219871"
+   },
+   "species": [
+    "Premium deer",
+    "Elk",
+    "Pronghorn",
+    "Bighorn sheep"
+   ],
+   "residents_only_notes": "",
+   "deadlines": [
+    {
+     "title": "Big Game Drawing (incl. points-only)",
+     "species": "Premium deer, Elk, Pronghorn, Bighorn sheep",
+     "date": "2027-06-02",
+     "opens": null,
+     "status": "estimated-from-2026",
+     "date_2026": "2026-06-02",
+     "source_url": "https://wildlife.ca.gov/News/Archive/june-2026-california-department-of-fish-and-wildlife-calendar",
+     "notes": "2026: transactions due before midnight June 2; period opened April 15."
+    }
+   ],
+   "results_dates": [],
+   "fees": {
+    "resident": {
+     "Hunting license, application, tags": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    },
+    "nonresident": {
+     "Hunting license, application, tags": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    }
+   },
+   "guide_steps": [
+    "Buy a CA hunting license.",
+    "Apply for the Big Game Drawing (or points-only) in the CDFW license system, Apr–early June.",
+    "Up to 3 choices for deer; 1st-choice failure earns a point."
+   ],
+   "sources": [
+    "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=219871",
+    "https://wildlife.ca.gov/News/Archive/june-2026-california-department-of-fish-and-wildlife-calendar",
+    "https://wildlife.ca.gov/licensing/hunting/big-game"
+   ],
+   "notes": "",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "state": "CO",
+   "state_name": "Colorado",
+   "agency": "Colorado Parks and Wildlife",
+   "agency_url": "https://cpw.state.co.us/activities/hunting/big-game/primary-draw",
+   "point_system": {
+    "type": "preference",
+    "summary": "Preference points for deer, elk, pronghorn, bear: most points draw first choice first. Get a point by missing your 1st choice or using the species’ preference-point code as 1st choice. Moose, Rocky Mtn bighorn and goat add weighted preference points after 3 points. Hybrid draw: up to 20% of licenses in codes that took 10+ resident points go to a random draw among applicants with 5+ points (individual apps, hybrid code as 1st choice). Desert bighorn: no points.",
+    "calc": "rank",
+    "loss_rule": null,
+    "source_url": "https://cpw.state.co.us/activities/hunting/big-game/primary-draw"
+   },
+   "species": [
+    "Elk",
+    "Deer",
+    "Pronghorn",
+    "Bear",
+    "Moose",
+    "Bighorn sheep",
+    "Mountain goat"
+   ],
+   "residents_only_notes": "",
+   "deadlines": [
+    {
+     "title": "Primary big-game draw + preference points",
+     "species": "Elk, Deer, Pronghorn, Bear, Moose, Sheep, Goat",
+     "date": "2027-04-07",
+     "opens": "2026-03-01",
+     "status": "estimated-from-2026",
+     "date_2026": "2026-04-07",
+     "source_url": "https://cpw.state.co.us/activities/hunting/big-game/primary-draw",
+     "notes": "2026: Mar 1 – Apr 7, 8 p.m. MT. Points can only be bought in this window."
+    }
+   ],
+   "results_dates": [],
+   "fees": {
+    "resident": {
+     "Moose / RM bighorn / goat preference point fee": {
+      "amount": "$50",
+      "source_url": "https://cpw.state.co.us/activities/hunting/big-game/primary-draw",
+      "last_verified": "2026-11-10"
+     },
+     "Qualifying license, application, tags": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    },
+    "nonresident": {
+     "Moose / RM bighorn / goat preference point fee": {
+      "amount": "$100",
+      "source_url": "https://cpw.state.co.us/activities/hunting/big-game/primary-draw",
+      "last_verified": "2026-11-10"
+     },
+     "Qualifying license, application, tags": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    }
+   },
+   "guide_steps": [
+    "Buy a qualifying license (small game or annual fishing for some species) – required to apply.",
+    "Apply in the CPW portal Mar 1 – early April; use the species’ preference-point code as 1st choice to build a point.",
+    "Results posted late May/June; leftover/secondary draw follows."
+   ],
+   "sources": [
+    "https://cpw.state.co.us/activities/hunting/big-game/primary-draw"
+   ],
+   "notes": "",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "state": "ID",
+   "state_name": "Idaho",
+   "agency": "Idaho Fish and Game",
+   "agency_url": "https://idfg.idaho.gov/licenses/controlled/apply",
+   "point_system": {
+    "type": "none",
+    "summary": "No point system: random draws."
+   },
+   "species": [
+    "Bighorn sheep",
+    "Deer",
+    "Elk",
+    "Moose",
+    "Mountain goat",
+    "Pronghorn"
+   ],
+   "residents_only_notes": "",
+   "deadlines": [
+    {
+     "title": "Moose, bighorn sheep, mountain goat controlled hunts",
+     "species": "Moose, Bighorn sheep, Mountain goat",
+     "date": "2027-04-30",
+     "opens": "2027-04-01",
+     "status": "estimated-rule-based",
+     "date_2026": "2026-04-30",
+     "source_url": "https://idfg.idaho.gov/licenses/controlled/apply",
+     "notes": "Annual period April 1–30 set in IDAPA 13.01.08.258."
+    },
+    {
+     "title": "Deer, elk, pronghorn controlled hunts",
+     "species": "Deer, Elk, Pronghorn",
+     "date": "2027-06-05",
+     "opens": "2027-05-01",
+     "status": "estimated-rule-based",
+     "date_2026": "2026-06-05",
+     "source_url": "https://idfg.idaho.gov/licenses/controlled/apply",
+     "notes": "Annual period May 1 – June 5 (IDAPA 13.01.08.258). Second drawing Aug 5–15."
+    }
+   ],
+   "results_dates": [],
+   "fees": {
+    "resident": {
+     "Moose/sheep/goat application fee": {
+      "amount": "$16.75",
+      "source_url": "https://idfg.idaho.gov/article/moose-bighorn-sheep-and-mountain-goat-controlled-hunt-application-period-opens-april-1-0",
+      "last_verified": "2026-11-10"
+     },
+     "Moose/sheep/goat total due at application (tag + app)": {
+      "amount": "$216.50 (no Price Lock) / $183.50 (Price Lock)",
+      "source_url": "https://idfg.idaho.gov/article/moose-bighorn-sheep-and-mountain-goat-controlled-hunt-application-period-opens-april-1-0",
+      "last_verified": "2026-11-10"
+     },
+     "Hunting license, deer/elk/pronghorn fees": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    },
+    "nonresident": {
+     "Moose/sheep/goat application fee": {
+      "amount": "$45.75",
+      "source_url": "https://idfg.idaho.gov/article/moose-bighorn-sheep-and-mountain-goat-controlled-hunt-application-period-opens-april-1-0",
+      "last_verified": "2026-11-10"
+     },
+     "Moose/sheep/goat total due at application (tag + app)": {
+      "amount": "$2,672.50",
+      "source_url": "https://idfg.idaho.gov/article/moose-bighorn-sheep-and-mountain-goat-controlled-hunt-application-period-opens-april-1-0",
+      "last_verified": "2026-11-10"
+     },
+     "Hunting license, deer/elk/pronghorn fees": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    }
+   },
+   "guide_steps": [
+    "Buy an ID hunting license before applying.",
+    "Moose/sheep/goat apply in April; deer/elk/pronghorn controlled hunts May 1 – June 5.",
+    "No points: each year is a fresh random draw."
+   ],
+   "sources": [
+    "https://idfg.idaho.gov/article/moose-bighorn-sheep-and-mountain-goat-controlled-hunt-application-period-opens-april-1-0",
+    "https://idfg.idaho.gov/licenses/controlled/apply"
+   ],
+   "notes": "No point system: random draws.",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "state": "MT",
+   "state_name": "Montana",
+   "agency": "Montana Fish, Wildlife & Parks",
+   "agency_url": "https://fwp.mt.gov/buyandapply/hunting-licenses/application-drawing-dates",
+   "point_system": {
+    "type": "bonus+preference",
+    "summary": "Bonus points (permits & licenses): squared, (points × points) + 1 chances – only used if you buy a point with that year’s application. Separate preference points for nonresident combination licenses: 75% go by most points, 25% random to applicants with no points; max 3 points; lost if you skip applying a year.",
+    "calc": "squared",
+    "loss_rule": "NR combo preference points are lost if you don’t apply in consecutive years.",
+    "source_url": "https://fwp.mt.gov/buyandapply/hunting-licenses/bonus-points"
+   },
+   "species": [
+    "Elk permits",
+    "Deer permits",
+    "Moose",
+    "Bighorn sheep",
+    "Mountain goat",
+    "Bison",
+    "Antelope",
+    "NR combo licenses"
+   ],
+   "residents_only_notes": "",
+   "deadlines": [
+    {
+     "title": "Deer & elk permits, NR combination licenses",
+     "species": "Elk, Deer",
+     "date": "2027-04-01",
+     "opens": "2027-03-01",
+     "status": "estimated-from-2026",
+     "date_2026": "2026-04-01",
+     "source_url": "https://fwp.mt.gov/homepage/news/2026/mar/0317-april-1-deadline",
+     "notes": "2026: Mar 1 – Apr 1, 11:45 p.m. MST."
+    },
+    {
+     "title": "Moose, bighorn sheep, mountain goat, bison",
+     "species": "Moose, Bighorn sheep, Mountain goat, Bison",
+     "date": "2027-05-01",
+     "opens": null,
+     "status": "estimated-from-2026",
+     "date_2026": "2026-05-01",
+     "source_url": "https://fwp.mt.gov/buyandapply/hunting-licenses/application-drawing-dates",
+     "notes": ""
+    },
+    {
+     "title": "Antelope, elk B & deer B licenses",
+     "species": "Antelope, Elk B, Deer B",
+     "date": "2027-06-01",
+     "opens": null,
+     "status": "estimated-from-2026",
+     "date_2026": "2026-06-01",
+     "source_url": "https://fwp.mt.gov/buyandapply/hunting-licenses/application-drawing-dates",
+     "notes": ""
+    },
+    {
+     "title": "Bonus point only purchase",
+     "species": "All permit species",
+     "date": "2027-09-30",
+     "opens": "2027-07-01",
+     "status": "estimated-from-2026",
+     "date_2026": "2026-09-30",
+     "source_url": "https://fwp.mt.gov/buyandapply/licenseandpermitfaq",
+     "notes": "July 1 – Sept 30, only if you didn’t apply that year."
+    },
+    {
+     "title": "NR combo preference point purchase (no application)",
+     "species": "NR combo",
+     "date": "2026-12-31",
+     "opens": "2026-07-01",
+     "status": "current-window",
+     "date_2026": null,
+     "source_url": "https://fwp.mt.gov/buyandapply/hunting-licenses/bonus-points",
+     "notes": "$100 over the counter Jul 1 – Dec 31 if you did not apply for a combo license."
+    }
+   ],
+   "results_dates": [],
+   "fees": {
+    "resident": {
+     "NR General Elk Combination": {
+      "amount": "check agency site",
+      "source_url": "https://fwp.mt.gov/buyandapply/hunting-licenses/nonresident-licenses/fees",
+      "last_verified": "2026-11-10"
+     },
+     "NR General Deer Combination": {
+      "amount": "check agency site",
+      "source_url": "https://fwp.mt.gov/buyandapply/hunting-licenses/nonresident-licenses/fees",
+      "last_verified": "2026-11-10"
+     },
+     "NR Big Game (deer + elk) Combination": {
+      "amount": "check agency site",
+      "source_url": "https://fwp.mt.gov/buyandapply/hunting-licenses/nonresident-licenses/fees",
+      "last_verified": "2026-11-10"
+     },
+     "Application fee (moose/sheep/goat/bison: $50)": {
+      "amount": "$5",
+      "source_url": "https://fwp.mt.gov/buyandapply/hunting-licenses/nonresident-licenses/fees",
+      "last_verified": "2026-11-10"
+     },
+     "Resident licenses, bonus point fees": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    },
+    "nonresident": {
+     "NR General Elk Combination": {
+      "amount": "$1,112",
+      "source_url": "https://fwp.mt.gov/buyandapply/hunting-licenses/nonresident-licenses/fees",
+      "last_verified": "2026-11-10"
+     },
+     "NR General Deer Combination": {
+      "amount": "$760",
+      "source_url": "https://fwp.mt.gov/buyandapply/hunting-licenses/nonresident-licenses/fees",
+      "last_verified": "2026-11-10"
+     },
+     "NR Big Game (deer + elk) Combination": {
+      "amount": "$1,312",
+      "source_url": "https://fwp.mt.gov/buyandapply/hunting-licenses/nonresident-licenses/fees",
+      "last_verified": "2026-11-10"
+     },
+     "NR combo preference point": {
+      "amount": "$100",
+      "source_url": "https://fwp.mt.gov/buyandapply/hunting-licenses/nonresident-licenses/fees",
+      "last_verified": "2026-11-10"
+     },
+     "Application fee (moose/sheep/goat/bison: $50)": {
+      "amount": "$5",
+      "source_url": "https://fwp.mt.gov/buyandapply/hunting-licenses/nonresident-licenses/fees",
+      "last_verified": "2026-11-10"
+     },
+     "Resident licenses, bonus point fees": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    }
+   },
+   "guide_steps": [
+    "Nonresidents apply for a deer or elk combination license (or big game combo) by April 1 and add a preference point.",
+    "Residents apply for permits; add a bonus point for each species when applying.",
+    "Point-only purchases: bonus points Jul 1 – Sep 30, combo preference points Jul 1 – Dec 31."
+   ],
+   "sources": [
+    "https://fwp.mt.gov/buyandapply/hunting-licenses/application-drawing-dates",
+    "https://fwp.mt.gov/buyandapply/hunting-licenses/bonus-points",
+    "https://fwp.mt.gov/buyandapply/hunting-licenses/nonresident-licenses/fees",
+    "https://fwp.mt.gov/buyandapply/licenseandpermitfaq",
+    "https://fwp.mt.gov/homepage/news/2026/mar/0317-april-1-deadline"
+   ],
+   "notes": "",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "state": "NV",
+   "state_name": "Nevada",
+   "agency": "Nevada Department of Wildlife",
+   "agency_url": "https://www.ndow.org/apply-buy/apply-buy-hunting/",
+   "point_system": {
+    "type": "bonus",
+    "summary": "Bonus points squared: (points²) + 1 random numbers, lowest number is used. Points by species/class (e.g., antlered elk, antlerless elk, spike elk). Earn one when unsuccessful or buy one instead of applying; needs an active hunting license. Lost if you miss two consecutive years.",
+    "calc": "squared",
+    "loss_rule": "Lost after 2 consecutive years without applying.",
+    "source_url": "https://ndow.zendesk.com/hc/en-us/articles/33026100120084-How-do-bonus-points-work-in-Nevada"
+   },
+   "species": [
+    "Mule deer",
+    "Elk",
+    "Antelope",
+    "Bighorn sheep",
+    "Mountain goat",
+    "Black bear",
+    "Moose"
+   ],
+   "residents_only_notes": "",
+   "deadlines": [
+    {
+     "title": "Big game main draw (incl. bonus points)",
+     "species": "Deer, Elk, Antelope, Sheep, Goat, Bear, Moose",
+     "date": "2027-05-13",
+     "opens": null,
+     "status": "estimated-from-2026",
+     "date_2026": "2026-05-13",
+     "source_url": "https://www.ndow.org/wp-content/uploads/2026/01/CR-26-01-2026-2027-Application-Deadlines-Draw-Result-Dates-NBWC-Approved-January-2026.pdf",
+     "notes": "2026: before 11 p.m. PT Wed May 13 (opened Mar 23)."
+    },
+    {
+     "title": "Nonresident guided mule deer draw",
+     "species": "Mule deer",
+     "date": "2027-03-09",
+     "opens": null,
+     "status": "estimated-from-2026",
+     "date_2026": "2026-03-09",
+     "source_url": "https://www.ndow.org/apply-buy/apply-buy-hunting/",
+     "notes": ""
+    }
+   ],
+   "results_dates": [],
+   "fees": {
+    "resident": {
+     "Hunting license, applications, tags, bonus points": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    },
+    "nonresident": {
+     "Hunting license, applications, tags, bonus points": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    }
+   },
+   "guide_steps": [
+    "Buy a NV hunting license (required to apply and for bonus points).",
+    "Apply in the main draw (spring; deadline mid-May).",
+    "Not applying for a species two years in a row costs you its bonus points."
+   ],
+   "sources": [
+    "https://ndow.zendesk.com/hc/en-us/articles/33026100120084-How-do-bonus-points-work-in-Nevada",
+    "https://www.ndow.org/apply-buy/apply-buy-hunting/",
+    "https://www.ndow.org/wp-content/uploads/2026/01/CR-26-01-2026-2027-Application-Deadlines-Draw-Result-Dates-NBWC-Approved-January-2026.pdf"
+   ],
+   "notes": "",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "state": "NM",
+   "state_name": "New Mexico",
+   "agency": "New Mexico Department of Wildlife",
+   "agency_url": "https://wildlife.dgf.nm.gov/hunting/applications-and-draw-information/",
+   "point_system": {
+    "type": "none",
+    "summary": "No point system: random draw with residency pools."
+   },
+   "species": [
+    "Barbary sheep",
+    "Bighorn",
+    "Deer",
+    "Elk",
+    "Ibex",
+    "Javelina",
+    "Oryx",
+    "Pronghorn"
+   ],
+   "residents_only_notes": "",
+   "deadlines": [
+    {
+     "title": "Big-game draw",
+     "species": "Deer, Elk, Pronghorn, Bighorn, Oryx, Ibex, Barbary sheep, Javelina",
+     "date": "2027-03-18",
+     "opens": null,
+     "status": "estimated-from-2026",
+     "date_2026": "2026-03-18",
+     "source_url": "https://wildlife.dgf.nm.gov/hunting/applications-and-draw-information/",
+     "notes": "2026: before 5 p.m. MDT March 18. Harvest reports must be in or apps are rejected."
+    }
+   ],
+   "results_dates": [],
+   "fees": {
+    "resident": {
+     "Game-hunting license, draw license fees": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    },
+    "nonresident": {
+     "Game-hunting license, draw license fees": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    }
+   },
+   "guide_steps": [
+    "Create a NM Wildlife account and buy a game-hunting license.",
+    "Apply for the big-game draw by mid-March; report last season’s harvest first.",
+    "No points; residency pools apply (nonresidents mostly with outfitter/guide pool rules)."
+   ],
+   "sources": [
+    "https://wildlife.dgf.nm.gov/hunting/applications-and-draw-information/"
+   ],
+   "notes": "No point system: random draw with residency pools.",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "state": "OR",
+   "state_name": "Oregon",
+   "agency": "Oregon Department of Fish & Wildlife",
+   "agency_url": "https://myodfw.com/articles/controlled-hunt-navigation",
+   "point_system": {
+    "type": "preference",
+    "summary": "Modified preference points (OAR 635-060-0023): 75% of tags by preference points, 25% equal-chance random among first-choice applicants. Points by hunt series; kept until used (no loss for skipping years). Point Saver option gives a point without hunting.",
+    "calc": "rank",
+    "loss_rule": "Points never expire for not applying.",
+    "source_url": "https://myodfw.com/articles/how-check-and-earn-preference-points"
+   },
+   "species": [
+    "Deer",
+    "Elk",
+    "Pronghorn",
+    "Spring bear"
+   ],
+   "residents_only_notes": "",
+   "deadlines": [
+    {
+     "title": "Controlled hunts (all big game except spring bear)",
+     "species": "Deer, Elk, Pronghorn, Sheep, Goat",
+     "date": "2027-05-15",
+     "opens": null,
+     "status": "estimated-from-2026",
+     "date_2026": "2026-05-15",
+     "source_url": "https://myodfw.com/big-game-hunting/seasons",
+     "notes": "May 15, 11:59 p.m. PT."
+    },
+    {
+     "title": "Spring bear controlled hunt",
+     "species": "Black bear",
+     "date": "2027-02-10",
+     "opens": null,
+     "status": "estimated-from-2026",
+     "date_2026": "2026-02-10",
+     "source_url": "https://myodfw.com/big-game-hunting/seasons",
+     "notes": ""
+    },
+    {
+     "title": "Point Saver purchase (if you didn’t apply in 2026)",
+     "species": "Deer, Elk, Pronghorn, Spring bear",
+     "date": "2026-11-30",
+     "opens": "2026-07-01",
+     "status": "current-window",
+     "date_2026": null,
+     "source_url": "https://myodfw.com/articles/how-check-and-earn-preference-points",
+     "notes": "Point Savers sell Dec 1 – May 15 and Jul 1 – Nov 30."
+    }
+   ],
+   "results_dates": [],
+   "fees": {
+    "resident": {
+     "Hunting license, application, Point Saver, tags": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    },
+    "nonresident": {
+     "Hunting license, application, Point Saver, tags": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    }
+   },
+   "guide_steps": [
+    "Buy an OR hunting license.",
+    "Apply for controlled hunts by May 15 (spring bear by Feb 10).",
+    "Not hunting this year? Buy a Point Saver to keep building points."
+   ],
+   "sources": [
+    "https://myodfw.com/articles/controlled-hunt-navigation",
+    "https://myodfw.com/articles/how-check-and-earn-preference-points",
+    "https://myodfw.com/big-game-hunting/seasons"
+   ],
+   "notes": "",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "state": "UT",
+   "state_name": "Utah",
+   "agency": "Utah Division of Wildlife Resources",
+   "agency_url": "https://wildlife.utah.gov/licenses/points",
+   "point_system": {
+    "type": "bonus+preference",
+    "summary": "Bonus points for limited-entry, CWMU and once-in-a-lifetime hunts: a random number for your application plus one per point (lowest used); 50% of permits per unit reserved for those with the most points. Preference points for general-season buck deer, antlerless deer/elk and doe pronghorn: most points draw first. Drawing forfeits that species’ points.",
+    "calc": "plus1",
+    "loss_rule": null,
+    "source_url": "https://wildlife.utah.gov/licenses/points"
+   },
+   "species": [
+    "Limited-entry elk",
+    "Limited-entry deer",
+    "Limited-entry pronghorn",
+    "OIAL moose/sheep/goat/bison",
+    "General buck deer (preference)"
+   ],
+   "residents_only_notes": "",
+   "deadlines": [
+    {
+     "title": "Big game draw + bonus/preference points",
+     "species": "LE elk/deer/pronghorn, OIAL, general buck deer",
+     "date": "2027-04-23",
+     "opens": "2027-03-19",
+     "status": "estimated-from-2026",
+     "date_2026": "2026-04-23",
+     "source_url": "https://wildlife.utah.gov/guidebooks/biggameapp.pdf",
+     "notes": "2026: Mar 19 – Apr 23, 11 p.m. MDT."
+    },
+    {
+     "title": "Antlerless draw + second point period",
+     "species": "Antlerless deer/elk/moose, doe pronghorn, points",
+     "date": "2027-06-23",
+     "opens": null,
+     "status": "estimated-from-2026",
+     "date_2026": "2026-06-23",
+     "source_url": "https://wildlife.utah.gov/guidebooks/biggameapp.pdf",
+     "notes": ""
+    }
+   ],
+   "results_dates": [],
+   "fees": {
+    "resident": {
+     "Bonus or preference point application": {
+      "amount": "$10",
+      "source_url": "https://wildlife.utah.gov/guidebooks/biggameapp.pdf",
+      "last_verified": "2026-11-10"
+     },
+     "Hunting license, permits": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    },
+    "nonresident": {
+     "Bonus or preference point application": {
+      "amount": "$21",
+      "source_url": "https://wildlife.utah.gov/guidebooks/biggameapp.pdf",
+      "last_verified": "2026-11-10"
+     },
+     "Hunting license, permits": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    }
+   },
+   "guide_steps": [
+    "Buy a UT hunting or combination license.",
+    "Apply for limited-entry, OIAL and general-season deer in the spring window (Mar–Apr), or apply for a point only.",
+    "Antlerless draw and a second point window follow in June."
+   ],
+   "sources": [
+    "https://wildlife.utah.gov/guidebooks/biggameapp.pdf",
+    "https://wildlife.utah.gov/licenses/points"
+   ],
+   "notes": "",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "state": "WA",
+   "state_name": "Washington",
+   "agency": "Washington Department of Fish & Wildlife",
+   "agency_url": "https://www.mywdfw.org/multi-season-special-hunt/",
+   "point_system": {
+    "type": "weighted",
+    "summary": "Special hunt permits use a weighted-point drawing: one point per application per category, points weighted in the draw (WDFW describes it as squared/weighted) and reset to zero when drawn. Multi-season deer/elk tags are a separate draw.",
+    "calc": "squared",
+    "loss_rule": null,
+    "source_url": "https://wdfw.wa.gov/sites/default/files/publications/02706/wdfw02706.pdf"
+   },
+   "species": [
+    "Deer",
+    "Elk",
+    "Moose",
+    "Bighorn sheep",
+    "Mountain goat"
+   ],
+   "residents_only_notes": "",
+   "deadlines": [
+    {
+     "title": "2027 multi-season deer/elk tag applications",
+     "species": "Deer, Elk",
+     "date": "2027-03-31",
+     "opens": "2026-12-01",
+     "status": "confirmed-2027",
+     "date_2026": "2026-03-31",
+     "source_url": "https://www.mywdfw.org/multi-season-special-hunt/",
+     "notes": "WDFW: 2027 applications on sale Dec 1, 2026 – Mar 31, 2027."
+    },
+    {
+     "title": "Special hunt permit submission",
+     "species": "Deer, Elk, Moose, Sheep, Goat",
+     "date": "2027-05-20",
+     "opens": null,
+     "status": "estimated-from-2026",
+     "date_2026": "2026-05-20",
+     "source_url": "https://wdfw.wa.gov/newsroom/news-release/wdfw-extends-special-hunt-application-submission-deadline-may-27",
+     "notes": "2026 original deadline May 20 (extended to May 27 that year). 2027 applications on sale from Dec 1, 2026."
+    }
+   ],
+   "results_dates": [],
+   "fees": {
+    "resident": {
+     "Multi-season deer or elk application": {
+      "amount": "$9.61",
+      "source_url": "https://wdfw.wa.gov/hunting/special-hunts/multi-season",
+      "last_verified": "2026-11-10"
+     },
+     "Special hunt applications, licenses": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    },
+    "nonresident": {
+     "Multi-season deer or elk application": {
+      "amount": "$152.30",
+      "source_url": "https://wdfw.wa.gov/hunting/special-hunts/multi-season",
+      "last_verified": "2026-11-10"
+     },
+     "Special hunt applications, licenses": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    }
+   },
+   "guide_steps": [
+    "Buy a WA hunting license and special hunt applications.",
+    "Submit special hunt choices by late May; multi-season deer/elk tag applications Dec 1 – Mar 31.",
+    "Points add each year you apply and reset when drawn."
+   ],
+   "sources": [
+    "https://wdfw.wa.gov/hunting/special-hunts/multi-season",
+    "https://wdfw.wa.gov/newsroom/news-release/wdfw-extends-special-hunt-application-submission-deadline-may-27",
+    "https://wdfw.wa.gov/sites/default/files/publications/02706/wdfw02706.pdf",
+    "https://www.mywdfw.org/multi-season-special-hunt/"
+   ],
+   "notes": "",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "state": "WY",
+   "state_name": "Wyoming",
+   "agency": "Wyoming Game & Fish Department",
+   "agency_url": "https://wgfd.wyo.gov/licenses-applications/application-dates-deadlines",
+   "point_system": {
+    "type": "preference",
+    "summary": "Preference points: NR elk, deer, antelope – 75% of NR licenses by preference-point ranking (first choice only), 25% random. Moose and bighorn sheep also use preference points (residents and nonresidents). Lost if you draw your first choice or skip buying a point two years in a row. Mountain goat & bison: no points.",
+    "calc": "rank",
+    "loss_rule": "Lost after 2 consecutive years without a point purchase/application.",
+    "source_url": "https://wgfd.wyo.gov/hunting-trapping/preference-points"
+   },
+   "species": [
+    "NR Elk",
+    "NR Deer",
+    "NR Antelope",
+    "Moose",
+    "Bighorn sheep"
+   ],
+   "residents_only_notes": "",
+   "deadlines": [
+    {
+     "title": "Nonresident elk",
+     "species": "Elk",
+     "date": "2027-02-02",
+     "opens": "2027-01-02",
+     "status": "estimated-from-2026",
+     "date_2026": "2026-02-02",
+     "source_url": "https://wgfd.wyo.gov/news-events/big-game-applications-open-2026-27-hunting-season-key-deadlines-approaching",
+     "notes": ""
+    },
+    {
+     "title": "Moose, bighorn sheep, mountain goat, bison",
+     "species": "Moose, Bighorn sheep, Mountain goat, Bison",
+     "date": "2027-04-30",
+     "opens": null,
+     "status": "estimated-from-2026",
+     "date_2026": "2026-04-30",
+     "source_url": "https://wgfd.wyo.gov/licenses-applications/application-dates-deadlines",
+     "notes": ""
+    },
+    {
+     "title": "Deer, antelope, resident elk",
+     "species": "Deer, Antelope, Resident elk",
+     "date": "2027-06-01",
+     "opens": null,
+     "status": "estimated-from-2026",
+     "date_2026": "2026-06-01",
+     "source_url": "https://wgfd.wyo.gov/licenses-applications/application-dates-deadlines",
+     "notes": ""
+    },
+    {
+     "title": "Preference point only period",
+     "species": "NR Elk/Deer/Antelope, Moose, Sheep",
+     "date": "2027-11-02",
+     "opens": "2027-07-01",
+     "status": "estimated-from-2026",
+     "date_2026": "2026-11-02",
+     "source_url": "https://wgfd.wyo.gov/licenses-applications/application-dates-deadlines",
+     "notes": ""
+    }
+   ],
+   "results_dates": [],
+   "fees": {
+    "resident": {
+     "NR full price elk + fishing": {
+      "amount": "check agency site",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "NR special elk + fishing": {
+      "amount": "check agency site",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "NR full price deer": {
+      "amount": "check agency site",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "NR full price antelope": {
+      "amount": "check agency site",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "NR moose license / pref point": {
+      "amount": "check agency site",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "NR bighorn sheep license / pref point": {
+      "amount": "check agency site",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "NR mountain goat": {
+      "amount": "check agency site",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "NR any wild bison": {
+      "amount": "check agency site",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "Resident fees": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    },
+    "nonresident": {
+     "NR full price elk + fishing": {
+      "amount": "$707",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "NR special elk + fishing": {
+      "amount": "$1,965",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "NR elk preference point": {
+      "amount": "$52",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "NR full price deer": {
+      "amount": "$389",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "NR deer preference point": {
+      "amount": "$41",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "NR full price antelope": {
+      "amount": "$341",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "NR antelope preference point": {
+      "amount": "$31",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "NR moose license / pref point": {
+      "amount": "$2,767 / $150",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "NR bighorn sheep license / pref point": {
+      "amount": "$3,017 / $150",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "NR mountain goat": {
+      "amount": "$2,767",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "NR any wild bison": {
+      "amount": "$6,017",
+      "source_url": "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+      "last_verified": "2026-11-10"
+     },
+     "Resident fees": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    }
+   },
+   "guide_steps": [
+    "Nonresident elk apply in January (deadline early Feb); moose/sheep/goat/bison by Apr 30; deer/antelope by June 1.",
+    "Choose regular or special license price and include a preference point if applying for one.",
+    "Not applying? Buy a preference point Jul 1 – early Nov."
+   ],
+   "sources": [
+    "https://wgfapps.wyo.gov/elsapplication/docs/ApplicationDatesDeadlinesPrices.htm",
+    "https://wgfd.wyo.gov/hunting-trapping/preference-points",
+    "https://wgfd.wyo.gov/licenses-applications/application-dates-deadlines",
+    "https://wgfd.wyo.gov/news-events/big-game-applications-open-2026-27-hunting-season-key-deadlines-approaching"
+   ],
+   "notes": "",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "state": "AK",
+   "state_name": "Alaska",
+   "agency": "Alaska Department of Fish and Game",
+   "agency_url": "https://www.adfg.alaska.gov/index.cfm?adfg=huntlicense.draw",
+   "point_system": {
+    "type": "none",
+    "summary": "No point system. Some species require a guide for nonresidents."
+   },
+   "species": [
+    "Bison",
+    "Brown bear",
+    "Caribou",
+    "Elk",
+    "Goat",
+    "Moose",
+    "Muskox",
+    "Sheep"
+   ],
+   "residents_only_notes": "",
+   "deadlines": [
+    {
+     "title": "2027 drawing permit hunts",
+     "species": "Moose, Caribou, Sheep, Goat, Bison, Muskox, Elk, Brown bear",
+     "date": "2026-12-15",
+     "opens": "2026-11-01",
+     "status": "confirmed-2027",
+     "date_2026": null,
+     "source_url": "https://www.adfg.alaska.gov/index.cfm?adfg=huntlicense.draw",
+     "notes": "Nov 1, 8 a.m. – Dec 15, 5 p.m. AKST for 2027 permits."
+    }
+   ],
+   "results_dates": [
+    "Drawing results: mid-February (ADF&G; check agency site for exact day)"
+   ],
+   "fees": {
+    "resident": {
+     "Hunting license, drawing application fees": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    },
+    "nonresident": {
+     "Hunting license, drawing application fees": {
+      "amount": "check agency site",
+      "source_url": null,
+      "last_verified": null
+     }
+    }
+   },
+   "guide_steps": [
+    "Buy an AK hunting license (residents/nonresidents) before applying.",
+    "Apply for drawing permits Nov 1 – Dec 15 for the next year’s hunts.",
+    "Nonresidents need a guide (or close relative) for brown bear, sheep and goat."
+   ],
+   "sources": [
+    "https://www.adfg.alaska.gov/index.cfm?adfg=huntlicense.draw"
+   ],
+   "notes": "No point system. Some species require a guide for nonresidents.",
+   "last_verified": "2026-11-10"
+  }
+ ],
+ "not_researched": [
+  "AL",
+  "GA",
+  "SC",
+  "NY",
+  "NJ",
+  "MD"
+ ],
+ "merge_order": [
+  "state_data.json",
+  "state_data_east.json",
+  "state_data_east_fallback.json"
+ ]
+}

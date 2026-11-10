@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#12151A">
+<script>try{var t=localStorage.getItem("swsf-theme");if(t==="light")document.documentElement.dataset.theme="light"}catch(e){}</script>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="SWSF Hunt">
+<meta name="description" content="Stay Wild Stay Free Outdoors hunt journal: onX pin journals, self-filming tools, meat and pack-out tools. Works offline. Your data stays on your phone.">
+<title>SWSF Hunt Journal</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="32x32" href="design/icons/favicon-32.png">
+<link rel="icon" href="design/icons/favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="design/icons/apple-touch-icon-180.png">
+<link rel="apple-touch-startup-image" href="design/splash.png" media="(device-width: 430px) and (device-height: 932px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="design/splash-1080x1920.png" media="(orientation: portrait)">
+<link rel="stylesheet" href="vendor/maplibre-gl.css">
+<link rel="stylesheet" href="design/theme.css">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header class="topbar">
+  <a href="#/map" class="brand"><img src="design/icons/icon-192.png" alt="Stay Wild Stay Free Outdoors logo"><span><b>SWSF</b> Hunt Journal</span></a>
+  <a href="#/data" class="iconbtn" title="Backup &amp; settings" aria-label="Backup and settings">&#9881;</a>
+</header>
+<div id="mapview" class="mapview" hidden>
+  <div id="map"></div>
+  <div class="maptools">
+    <button id="btnLayers" class="mbtn" aria-label="Map layers">&#9776; Layers</button>
+    <button id="btn3d" class="mbtn" aria-label="Toggle 2D/3D">3D</button>
+    <button id="btnLocate" class="mbtn" aria-label="My location">&#9678;</button>
+    <button id="btnImport" class="mbtn accent" aria-label="Import onX GPX or KML">&#8682; onX</button>
+  </div>
+  <div class="crosshair" id="crosshair" hidden>+</div>
+  <div class="mapbottom">
+    <button id="btnDropPin" class="mbtn">&#9873; Pin at center</button>
+    <button id="btnWaterScan" class="mbtn water" hidden>&#128167; Scan for potential water</button>
+  </div>
+  <div id="mapstatus" class="mapstatus"></div>
+  <div id="layerPanel" class="sheet" hidden></div>
+</div>
+<main id="view"></main>
+<nav class="tabs" id="tabs">
+  <a href="#/map" data-tab="map"><span class="ti">&#9650;</span>Map</a>
+  <a href="#/pins" data-tab="pins"><span class="ti">&#9873;</span>Pins</a>
+  <a href="#/film" data-tab="film"><span class="ti">&#9673;</span>Film</a>
+  <a href="#/meat" data-tab="meat"><span class="ti">&#9874;</span>Meat</a>
+  <a href="#/draws" data-tab="draws"><span class="ti">&#9744;</span>Draws</a>
+  <a href="#/score" data-tab="score"><span class="ti">&#10022;</span>Score</a>
+  <a href="#/pods" data-tab="pods"><span class="ti">&#9835;</span>Pods</a>
+  <a href="#/community" data-tab="community"><span class="ti">&#9734;</span>Camp</a>
+</nav>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<input type="file" id="gpxInput" accept=".gpx,.kml,.xml,application/gpx+xml,application/vnd.google-earth.kml+xml,text/xml" hidden>
+<input type="file" id="backupInput" accept=".json,application/json" hidden>
+<script src="vendor/maplibre-gl.js"></script>
+<script src="js/db.js"></script>
+<script src="js/parse.js"></script>
+<script src="js/map.js"></script>
+<script src="js/views.js"></script>
+<script src="js/podcasts.js"></script>
+<script src="js/draws.js"></script>
+<script src="js/scoring.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

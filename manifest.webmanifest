@@ -1,0 +1,37 @@
+{
+  "name": "SWSF Hunt Journal - Stay Wild Stay Free Outdoors",
+  "short_name": "SWSF Hunt",
+  "description": "onX pin journals, maps, draws & points, antler scoring, self-filming and meat tools for DIY hunters. Offline, no account.",
+  "start_url": "./#/map",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12151A",
+  "theme_color": "#12151A",
+  "icons": [
+    {
+      "src": "design/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "design/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "design/icons/maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "design/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

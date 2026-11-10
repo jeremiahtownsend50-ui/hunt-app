@@ -1,0 +1,320 @@
+/* Stay Wild Stay Free Outdoors — hunting PWA theme
+   Dark mode is the default (sunlight-readable, high contrast).
+   Add data-theme="light" on <html> for the daylight override.
+   Local fonts in design/fonts/ ship with the kit for offline use.
+   The Google Fonts import below is a hosted fallback when online. */
+
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap");
+
+@font-face {
+  font-family: "Oswald";
+  src: url("fonts/Oswald-Variable.ttf") format("truetype");
+  font-weight: 200 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("fonts/Inter-Variable.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("fonts/Inter-Italic-Variable.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+:root {
+  /* Color — dark (primary) */
+  --bg: #12151a;
+  --surface: #1c2230;
+  --surface-2: #2a3142;
+  --text: #f3ebdd;
+  --text-muted: #c4b9a6;
+  --primary: #f47a28;
+  --primary-contrast: #12151a;
+  --accent: #4eadc2;
+  --success: #6fbe62;
+  --warning: #e8b84a;
+  --danger: #f27a6a;
+  --public-land: #7cbc5a;
+  --private-land: #ee8a7c;
+  --water: #4aadd8;
+  --border: #3e4658;
+  --focus: #4eadc2;
+  --theme-color: #12151a;
+  --splash-bg: #12151a;
+
+  /* Typography */
+  --font-heading: "Oswald", "Arial Narrow", Impact, sans-serif;
+  --font-body: "Inter", "Source Sans 3", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --fs-xs: 0.75rem;    /* 12px */
+  --fs-sm: 0.875rem;   /* 14px */
+  --fs-md: 1rem;       /* 16px — body minimum */
+  --fs-lg: 1.125rem;   /* 18px */
+  --fs-xl: 1.5rem;     /* 24px */
+  --fs-2xl: 2rem;      /* 32px */
+  --fs-3xl: 2.5rem;    /* 40px */
+  --lh-tight: 1.15;
+  --lh-heading: 1.2;
+  --lh-body: 1.5;
+  --tracking-heading: 0.06em;
+  --tracking-wide: 0.1em;
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+  --fw-bold: 700;
+
+  /* Radius, space, elevation */
+  --radius-sm: 6px;
+  --radius: 10px;
+  --radius-lg: 14px;
+  --radius-full: 9999px;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow: 0 4px 14px rgba(0, 0, 0, 0.45);
+  --shadow-lg: 0 12px 32px rgba(0, 0, 0, 0.55);
+  --tap-min: 48px;
+  --border-w: 1px;
+}
+
+/* High-contrast daylight override */
+[data-theme="light"] {
+  --bg: #f4eee4;
+  --surface: #fffbf6;
+  --surface-2: #e7e0d4;
+  --text: #141820;
+  --text-muted: #3f4550;
+  --primary: #a83e0a;
+  --primary-contrast: #fff8f0;
+  --accent: #0e4a5c;
+  --success: #1a6e2c;
+  --warning: #8a5a00;
+  --danger: #b42318;
+  --public-land: #1f6b2c;
+  --private-land: #a33b2e;
+  --water: #0a5f86;
+  --border: #5c564c;
+  --focus: #0e4a5c;
+  --theme-color: #a83e0a;
+  --splash-bg: #f4eee4;
+  --shadow-sm: 0 1px 2px rgba(20, 24, 32, 0.08);
+  --shadow: 0 4px 14px rgba(20, 24, 32, 0.12);
+  --shadow-lg: 0 12px 28px rgba(20, 24, 32, 0.16);
+}
+
+/* ---------- Base (opt-in: include this stylesheet at the app root) ---------- */
+
+html {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: var(--lh-body);
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-weight: var(--fw-regular);
+}
+
+h1, h2, h3, h4, h5, h6,
+.heading {
+  font-family: var(--font-heading);
+  font-weight: var(--fw-bold);
+  line-height: var(--lh-heading);
+  letter-spacing: var(--tracking-heading);
+  text-transform: uppercase;
+  color: var(--text);
+  margin: 0 0 var(--space-3);
+}
+
+h1 { font-size: var(--fs-2xl); }
+h2 { font-size: var(--fs-xl); }
+h3 { font-size: var(--fs-lg); }
+
+p { margin: 0 0 var(--space-3); }
+
+a {
+  color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+
+a:hover { text-decoration-thickness: 2px; }
+
+a:focus-visible,
+.btn:focus-visible,
+button:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 3px;
+}
+
+/* ---------- Buttons ---------- */
+
+.btn,
+.btn-primary,
+.btn-secondary,
+.btn-ghost {
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  min-height: var(--tap-min);
+  min-width: var(--tap-min);
+  padding: var(--space-3) var(--space-5);
+  font-family: var(--font-heading);
+  font-size: var(--fs-md);
+  font-weight: var(--fw-semibold);
+  letter-spacing: var(--tracking-heading);
+  line-height: 1;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-radius: var(--radius);
+  border: var(--border-w) solid transparent;
+  cursor: pointer;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  box-shadow: var(--shadow-sm);
+}
+
+.btn-primary {
+  background: var(--primary);
+  color: var(--primary-contrast);
+  border-color: var(--primary);
+}
+
+.btn-primary:hover { filter: brightness(1.08); }
+
+.btn-secondary {
+  background: var(--surface-2);
+  color: var(--text);
+  border-color: var(--border);
+}
+
+.btn-secondary:hover { filter: brightness(1.1); }
+
+.btn-ghost {
+  background: transparent;
+  color: var(--text);
+  border-color: var(--border);
+  box-shadow: none;
+}
+
+.btn-ghost:hover { background: var(--surface-2); }
+
+.btn:disabled,
+.btn-primary:disabled,
+.btn-secondary:disabled,
+.btn-ghost:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  filter: none;
+  pointer-events: none;
+}
+
+/* ---------- Cards ---------- */
+
+.card {
+  background: var(--surface);
+  color: var(--text);
+  border: var(--border-w) solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-4);
+  box-shadow: var(--shadow-sm);
+}
+
+.card-header {
+  font-family: var(--font-heading);
+  font-size: var(--fs-lg);
+  font-weight: var(--fw-bold);
+  letter-spacing: var(--tracking-heading);
+  text-transform: uppercase;
+  line-height: var(--lh-heading);
+  color: var(--text);
+  margin: 0 0 var(--space-3);
+  padding: 0 0 var(--space-3);
+  border-bottom: var(--border-w) solid var(--border);
+}
+
+/* ---------- Chips & badges ---------- */
+
+.chip,
+.badge {
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35em;
+  font-family: var(--font-body);
+  font-weight: var(--fw-semibold);
+  line-height: 1;
+  white-space: nowrap;
+  border: var(--border-w) solid transparent;
+}
+
+.chip {
+  min-height: var(--tap-min);
+  padding: 0 var(--space-4);
+  font-size: var(--fs-sm);
+  color: var(--text);
+  background: var(--surface-2);
+  border-color: var(--border);
+  border-radius: var(--radius-full);
+  cursor: pointer;
+}
+
+.chip:hover,
+.chip[aria-pressed="true"],
+.chip.is-on {
+  border-color: var(--primary);
+  color: var(--primary);
+  background: color-mix(in srgb, var(--primary) 14%, var(--surface-2));
+}
+
+.badge {
+  min-height: 1.5rem;
+  padding: 0.2em 0.55em;
+  font-size: var(--fs-xs);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  background: var(--surface-2);
+  border-radius: var(--radius-full);
+}
+
+.badge-success,
+.badge-warning,
+.badge-danger,
+.badge-public,
+.badge-private,
+.badge-water {
+  background: color-mix(in srgb, var(--badge-fg, var(--text)) 18%, var(--surface));
+  color: var(--badge-fg);
+}
+
+.badge-success { --badge-fg: var(--success); }
+.badge-warning { --badge-fg: var(--warning); }
+.badge-danger  { --badge-fg: var(--danger); }
+.badge-public  { --badge-fg: var(--public-land); }
+.badge-private { --badge-fg: var(--private-land); }
+.badge-water   { --badge-fg: var(--water); }

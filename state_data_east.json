@@ -1,0 +1,2655 @@
+[
+ {
+  "state": "AR",
+  "agency": "Arkansas Game & Fish Commission",
+  "agency_url": "https://www.agfc.com/hunting/more-game/elk/",
+  "point_system": {
+   "type": "none",
+   "species": [
+    "Elk"
+   ],
+   "residents_only": true,
+   "notes": "The public-land elk permit draw is random with no points, and it's RESIDENTS ONLY. You must hold a Resident Sportsman Hunting License or Lifetime Sportsman's Permit. In 2026 there were 15 online-draw permits (5 either-sex, 10 antlerless) plus 3 on-site festival permits. Private-land elk is a quota hunt with no draw (residents $5 PLE permit, nonresidents $300 NRE). Hunters can also take elk outside the 5-county Core Elk Zone during deer season. AGFC also runs separate WMA deer and other permit draws."
+  },
+  "species": [
+   "Elk"
+  ],
+  "residents_only_notes": "PUBLIC-LAND ELK DRAW IS ARKANSAS-RESIDENT ONLY. Nonresidents can hunt only the private-land quota elk season (NR annual hunting license $410 plus NRE elk permit $300) or take elk incidentally outside the Core Elk Zone.",
+  "deadlines": [
+   {
+    "species": "Elk",
+    "type": "application",
+    "date": "2027-06-01 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.agfc.com/resources/all-calendars/permit-deadlines/",
+    "notes": "2026 window was 8 a.m. May 1 to 11:59 p.m. June 1."
+   },
+   {
+    "species": "Elk",
+    "type": "point_only",
+    "date": "n/a",
+    "status": "confirmed_2027",
+    "source_url": "https://www.agfc.com/hunting/more-game/elk/",
+    "notes": "No points."
+   },
+   {
+    "species": "Deer (WMA permit hunts)",
+    "type": "application",
+    "date": "2027-07-01 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.agfc.com/resources/all-calendars/permit-deadlines/",
+    "notes": "2026 deer permit application period was June 1 to July 1."
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Elk",
+    "type": "results",
+    "date": "2027-06 (late June, at Buffalo River Elk Festival; check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.agfc.com/news/apply-for-a-2026-arkansas-elk-hunting-permit/",
+    "notes": "2026 permits were drawn at the Buffalo River Elk Festival in Jasper, June 26-27. Winners were notified by email and phone."
+   }
+  ],
+  "fees": {
+   "fee_year": "2026-27 license year (expires June 30)",
+   "resident": {
+    "resident_sportsmans_license": {
+     "amount": 25,
+     "source_url": "https://www.agfc.com/resources/licensing/hunting-license-descriptions-and-fees/"
+    },
+    "elk_application": {
+     "amount": 5,
+     "source_url": "https://www.agfc.com/hunting/more-game/elk/",
+     "notes": "nonrefundable"
+    },
+    "private_land_elk_permit_PLE": {
+     "amount": 5,
+     "source_url": "https://www.agfc.com/news/apply-for-a-2026-arkansas-elk-hunting-permit/"
+    },
+    "public_land_elk_permit_if_drawn": {
+     "amount": "check agency site",
+     "source_url": "https://www.agfc.com/hunting/more-game/elk/"
+    }
+   },
+   "nonresident": {
+    "nonresident_annual_all_game_hunting_license": {
+     "amount": 410,
+     "source_url": "https://www.agfc.com/resources/licensing/hunting-license-descriptions-and-fees/"
+    },
+    "elk_application": {
+     "amount": null,
+     "source_url": "https://www.agfc.com/hunting/more-game/elk/",
+     "notes": "Not eligible, resident-only"
+    },
+    "nonresident_elk_permit_NRE_private_land": {
+     "amount": 300,
+     "source_url": "https://www.agfc.com/resources/licensing/hunting-license-descriptions-and-fees/"
+    }
+   }
+  },
+  "guide_steps": [
+   "Create or log in to an AGFC licensing account (agfc.com/license).",
+   "Buy the Resident Sportsman's License ($25) first. It's required to apply (residents only).",
+   "Between May 1 and June 1, apply under 'Special Hunt Permits' for the public-land elk draw ($5, nonrefundable). You must be 6 or older by the hunt start.",
+   "There are no parties or points.",
+   "The draw happens at the Buffalo River Elk Festival in Jasper (late June), and winners are notified by email and phone. Attend in person to also be eligible for the 3 on-site permits.",
+   "There's no leftover draw. For private land in elk country, residents buy the $5 PLE permit and nonresidents the $300 NRE permit, over the counter. Call nightly to check whether the quota has been met."
+  ],
+  "sources": [
+   "https://www.agfc.com/hunting/more-game/elk/",
+   "https://www.agfc.com/news/apply-for-a-2026-arkansas-elk-hunting-permit/",
+   "https://www.agfc.com/resources/all-calendars/permit-deadlines/",
+   "https://www.agfc.com/resources/licensing/hunting-license-descriptions-and-fees/"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "IA",
+  "agency": "Iowa Department of Natural Resources",
+  "agency_url": "https://www.iowadnr.gov/things-do/hunting-trapping/hunting-licenses-fees/nonresident-hunting-licenses",
+  "point_system": {
+   "type": "preference",
+   "species": [
+    "Deer (nonresident General deer/Antlerless-only combination)"
+   ],
+   "residents_only": false,
+   "notes": "ONLY NONRESIDENT deer is drawn. Resident deer licenses are over the counter (no draw). Unsuccessful nonresident applicants automatically get 1 preference point AND are charged a mandatory, nonrefundable $60.50 point fee. You can buy a point instead of applying ($60.50 plus fees, May 2 to June 7, online only). Points don't accrue in a year you skip, but aren't lost either. They're wiped when you draw a General deer license, and they don't apply to antlerless-only licenses. Groups of up to 15 get the group's assigned preference (check agency site for averaging). No elk, moose or pronghorn seasons."
+  },
+  "species": [
+   "Deer"
+  ],
+  "residents_only_notes": "The draw applies to nonresidents only. Residents buy deer licenses over the counter.",
+  "deadlines": [
+   {
+    "species": "Deer (nonresident)",
+    "type": "application",
+    "date": "2027-06 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.iowadnr.gov/media/1704/download?inline=",
+    "notes": "2026 window was May 2 to June 7."
+   },
+   {
+    "species": "Deer (nonresident)",
+    "type": "point_only",
+    "date": "2027-06 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.iowadnr.gov/media/1704/download?inline=",
+    "notes": "2026 point-only window was May 2 to June 7, online only."
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Deer (nonresident)",
+    "type": "results",
+    "date": "2027-07 (before July excess sale; check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.iowadnr.gov/media/1704/download?inline=",
+    "notes": "Applicants are emailed their draw status before the excess sale (July 25 in 2026). Licenses are mailed in August."
+   }
+  ],
+  "fees": {
+   "fee_year": "2026",
+   "resident": {
+    "deer_licenses": {
+     "amount": "check agency site",
+     "source_url": "https://www.iowadnr.gov/things-do/hunting-trapping/hunting-licenses-fees",
+     "notes": "Residents buy over the counter. No draw."
+    }
+   },
+   "nonresident": {
+    "hunting_license_18plus": {
+     "amount": 131,
+     "source_url": "https://www.iowadnr.gov/media/1704/download?inline="
+    },
+    "hunting_license_16_17": {
+     "amount": 32,
+     "source_url": "https://www.iowadnr.gov/media/1704/download?inline="
+    },
+    "habitat_fee": {
+     "amount": 15,
+     "source_url": "https://www.iowadnr.gov/media/1704/download?inline="
+    },
+    "general_deer_antlerless_combo_license": {
+     "amount": 498,
+     "source_url": "https://www.iowadnr.gov/media/1704/download?inline=",
+     "notes": "refunded to card if unsuccessful, minus nonrefundable fees"
+    },
+    "optional_antlerless_only": {
+     "amount": 266.5,
+     "source_url": "https://www.iowadnr.gov/media/1704/download?inline="
+    },
+    "holiday_antlerless_only": {
+     "amount": 91,
+     "source_url": "https://www.iowadnr.gov/media/1704/download?inline="
+    },
+    "preference_point": {
+     "amount": 60.5,
+     "source_url": "https://www.iowadnr.gov/media/1704/download?inline=",
+     "notes": "plus application fees, nonrefundable. Charged automatically if you're unsuccessful."
+    }
+   }
+  },
+  "guide_steps": [
+   "Create or log in to the Go Outdoors Iowa account (gooutdoorsiowa.com). Apply online only. Nonresidents born after Jan 1, 1972 need proof of hunter education.",
+   "Apply May 2 to June 7 for the nonresident General deer/Antlerless-only combination license. Pick a zone and a season (Bow, Muzzleloader, or Gun 1/2). The license price ($498) plus hunting license and habitat fee is charged up front.",
+   "Groups: up to 15 nonresidents, with a group leader number. All members are drawn or rejected together.",
+   "If you're not drawn, license fees are refunded to your card, but you're charged the mandatory $60.50 preference point and lose admin and agent fees.",
+   "Point only: buy a preference point ($60.50 plus fees) during May 2 to June 7.",
+   "Draw status is emailed before the excess sale. Leftover General licenses go on sale July 25 (2026), along with optional antlerless-only licenses. Holiday antlerless licenses go on sale in mid-December if quota allows."
+  ],
+  "sources": [
+   "https://www.iowadnr.gov/media/1704/download?inline=",
+   "https://www.iowadnr.gov/things-do/hunting-trapping/hunting-licenses-fees/nonresident-hunting-licenses"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "KS",
+  "agency": "Kansas Department of Wildlife and Parks",
+  "agency_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/deer",
+  "point_system": {
+   "type": "preference (nonresident deer; resident firearm either-species deer; resident antelope); bonus (resident elk)",
+   "species": [
+    "Deer (nonresident draw)",
+    "Deer (resident firearm either-species/either-sex)",
+    "Pronghorn (resident)",
+    "Elk (resident, Fort Riley)"
+   ],
+   "residents_only": false,
+   "notes": "ALL nonresident deer permits are draw-only and use preference points. A group of up to 5 uses its lowest member's points. Points reset to zero if you don't apply or buy a point within 5 consecutive years. The nonresident mule deer stamp is a separate draw that doesn't use points. ELK is RESIDENT-ONLY (plus qualifying nonresident tenants), with bonus points of 1 extra draw chance each. Points are lost when drawn or after 5 years without activity, and you can't apply and buy a point in the same year. PRONGHORN draw is resident-only."
+  },
+  "species": [
+   "Deer",
+   "Elk",
+   "Pronghorn"
+  ],
+  "residents_only_notes": "Elk and pronghorn are Kansas residents only (elk also allows qualifying nonresident tenants). Nonresidents can only get deer, through the April preference-point draw.",
+  "deadlines": [
+   {
+    "species": "Deer (nonresident)",
+    "type": "application",
+    "date": "2027-04 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/deer",
+    "notes": "2026 window was April 1-24, 2026."
+   },
+   {
+    "species": "Deer (nonresident)",
+    "type": "point_only",
+    "date": "2027-04 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/deer",
+    "notes": "Points can only be bought during the April application period ($25)."
+   },
+   {
+    "species": "Deer (resident firearm either-species), Elk",
+    "type": "application",
+    "date": "2027-06 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/deer",
+    "notes": "2026 resident draw window was May 12 to June 12, 2026."
+   },
+   {
+    "species": "Deer (resident firearm), Elk",
+    "type": "point_only",
+    "date": "2027-06 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/elk",
+    "notes": "Point purchase during the May-June window only."
+   },
+   {
+    "species": "Pronghorn (resident)",
+    "type": "application",
+    "date": "check agency site",
+    "status": "estimated_from_2026",
+    "source_url": "https://ksoutdoors.gov/Hunting/Applications-and-Fees/Antelope-Elk",
+    "notes": "The KDWP antelope page was blocked from verification. Likely the same May-June resident window, but check the agency site."
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Deer (nonresident), Elk, Pronghorn",
+    "type": "results",
+    "date": "check agency site",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/deer",
+    "notes": "Card charged at the draw if successful. The results date isn't published on the pages checked."
+   }
+  ],
+  "fees": {
+   "fee_year": "2026 (fees exclude agent/convenience fees)",
+   "resident": {
+    "hunting_license": {
+     "amount": "check agency site",
+     "source_url": "https://www.ksoutdoors.gov/licenses-permits-fees/hunting-licenses-permit-fees",
+     "notes": "KDWP fee page blocked automated verification"
+    },
+    "firearm_either_species_deer_permit_draw": {
+     "amount": 50,
+     "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/deer"
+    },
+    "deer_preference_point": {
+     "amount": 10,
+     "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/deer"
+    },
+    "any_season_whitetail_otc": {
+     "amount": 40,
+     "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/deer"
+    },
+    "archery_either_species_otc": {
+     "amount": 40,
+     "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/deer"
+    },
+    "whitetail_antlerless_otc": {
+     "amount": 20,
+     "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/deer"
+    },
+    "elk_application_or_bonus_point": {
+     "amount": 12.5,
+     "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/elk"
+    },
+    "elk_any_elk_permit": {
+     "amount": 300,
+     "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/elk"
+    },
+    "elk_antlerless_permit": {
+     "amount": 150,
+     "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/elk"
+    },
+    "antelope_permit_and_point": {
+     "amount": "check agency site",
+     "source_url": "https://ksoutdoors.gov/Hunting/Applications-and-Fees/Antelope-Elk"
+    }
+   },
+   "nonresident": {
+    "hunting_license_16plus": {
+     "amount": 125,
+     "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/deer",
+     "notes": "required AT TIME OF APPLICATION, nonrefundable"
+    },
+    "whitetail_deer_permit_draw": {
+     "amount": 475,
+     "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/deer",
+     "notes": "includes $25 nonrefundable application fee. Covers 1 any whitetail + 1 antlerless whitetail."
+    },
+    "deer_preference_point": {
+     "amount": 25,
+     "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/deer"
+    },
+    "mule_deer_stamp_draw": {
+     "amount": 150,
+     "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/deer",
+     "notes": "in addition to the deer permit, units 1/2/17/18 archery or muzzleloader only"
+    },
+    "whitetail_antlerless_otc": {
+     "amount": 50,
+     "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/deer"
+    },
+    "elk": {
+     "amount": null,
+     "source_url": "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/elk",
+     "notes": "resident-only except nonresident tenants ($300 any elk)"
+    }
+   }
+  },
+  "guide_steps": [
+   "Create or log in to a GoOutdoorsKS account (gooutdoorskansas.gov) or call 1-833-587-2164.",
+   "NONRESIDENTS: buy the nonresident hunting license ($125) BEFORE applying. It's required at application and nonrefundable.",
+   "Nonresident deer: apply April 1-24 (2026 window). Choose a unit plus one adjacent unit and a season (archery, muzzleloader, or firearm), and optionally the mule deer stamp. Your card is charged $475 only if drawn ($25 of it is a nonrefundable application fee).",
+   "Groups: up to 5 hunters, same unit and weapon. The first applicant creates the group number and others join. The group draws at its lowest point level.",
+   "Points only: choose 'Apply for Points only' under Limited Draw Applications during the window ($25 nonresident deer, $10 resident deer, $12.50 elk). Keep activity at least once every 5 years.",
+   "Residents: either-species firearm deer and Fort Riley elk are draws in May-June. Most other resident deer permits are over the counter Aug 5 to Dec 31.",
+   "Leftovers: whitetail antlerless-only permits are sold over the counter Aug 5 to Dec 31 (up to 10, with unit limits). Elk Unit 3 permits are over the counter for residents."
+  ],
+  "sources": [
+   "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/deer",
+   "https://www.ksoutdoors.gov/outdoor-activities/hunting-in-kansas/what-to-hunt/big-game/elk",
+   "https://ksoutdoors.gov/Hunting/Applications-and-Fees/Antelope-Elk",
+   "https://www.ksoutdoors.gov/licenses-permits-fees/hunting-licenses-permit-fees"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "KY",
+  "agency": "Kentucky Department of Fish & Wildlife Resources",
+  "agency_url": "https://fw.ky.gov/Hunt/Pages/Elk-Hunting-Regs.aspx",
+  "point_system": {
+   "type": "none",
+   "species": [
+    "Elk"
+   ],
+   "residents_only": false,
+   "notes": "Pure random lottery, no preference or bonus points. Residents who apply for the most years without drawing are auto-entered in a resident-only Loyalty Redraw for unclaimed permits. Nonresidents capped at 10% of drawn permits. Drawn hunters are blocked from reapplying for 3 years."
+  },
+  "species": [
+   "Elk"
+  ],
+  "residents_only_notes": "Open to nonresidents (max 10% of drawn permits). The Loyalty Redraw for unpurchased permits is resident-only.",
+  "deadlines": [
+   {
+    "species": "Elk",
+    "type": "application",
+    "date": "2027-04-30",
+    "status": "confirmed_2027",
+    "notes": "2027 drawing application period runs Aug 1, 2026 through midnight ET April 30, 2027.",
+    "source_url": "https://fw.ky.gov/Hunt/Pages/Elk-Hunting-Regs.aspx"
+   },
+   {
+    "species": "Elk",
+    "type": "point_only",
+    "date": "n/a",
+    "status": "confirmed_2027",
+    "notes": "No point system, so there's no point-only option.",
+    "source_url": "https://fw.ky.gov/Hunt/Pages/Elk-Hunting-Regs.aspx"
+   },
+   {
+    "species": "Elk",
+    "type": "purchase_deadline_if_drawn",
+    "date": "2027-06-15",
+    "status": "estimated_from_2026",
+    "notes": "Drawn hunters must buy the permit by midnight June 15. Loyalty Redraw winners have until June 30. Unit-choice application is also due June 30.",
+    "source_url": "https://fw.ky.gov/Hunt/Pages/Elk-Hunting-Regs.aspx"
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Elk",
+    "type": "results",
+    "date": "2027-05 (check agency site)",
+    "status": "estimated_from_2026",
+    "notes": "In 2026, winners were announced May 9 at the KY Elk & Outdoor Fest and posted in My Profile by 5 p.m. ET May 13. The 2027 date isn't announced.",
+    "source_url": "https://fw.ky.gov/News/Pages/Apply-for-the-Kentucky-Elk-Hunt-Drawing-by-April-30.aspx"
+   }
+  ],
+  "fees": {
+   "fee_year": "2026-27 license year (Mar 1, 2026 to Feb 28, 2027)",
+   "resident": {
+    "annual_hunting_license": {
+     "amount": 28.54,
+     "source_url": "https://fw.ky.gov/Licenses/Pages/Fees.aspx"
+    },
+    "elk_application": {
+     "amount": 10.0,
+     "notes": "per permit type, nonrefundable",
+     "source_url": "https://fw.ky.gov/Licenses/Pages/Fees.aspx"
+    },
+    "elk_bull_permit_if_drawn": {
+     "amount": 105.7,
+     "source_url": "https://fw.ky.gov/Licenses/Pages/Fees.aspx"
+    },
+    "elk_cow_permit_if_drawn": {
+     "amount": 63.42,
+     "source_url": "https://fw.ky.gov/Licenses/Pages/Fees.aspx"
+    },
+    "elk_archery_crossbow_permit_if_drawn": {
+     "amount": 105.7,
+     "source_url": "https://fw.ky.gov/Licenses/Pages/Fees.aspx"
+    },
+    "youth_elk_permit_if_drawn": {
+     "amount": 31.71,
+     "source_url": "https://fw.ky.gov/Licenses/Pages/Fees.aspx"
+    },
+    "out_of_zone_elk_permit_otc": {
+     "amount": 31.71,
+     "source_url": "https://fw.ky.gov/Licenses/Pages/Fees.aspx"
+    },
+    "point_fee": {
+     "amount": null,
+     "notes": "No points",
+     "source_url": "https://fw.ky.gov/Hunt/Pages/Elk-Hunting-Regs.aspx"
+    }
+   },
+   "nonresident": {
+    "annual_hunting_license": {
+     "amount": 169.12,
+     "source_url": "https://fw.ky.gov/Licenses/Pages/Fees.aspx"
+    },
+    "elk_application": {
+     "amount": 10.0,
+     "notes": "per permit type, nonrefundable",
+     "source_url": "https://fw.ky.gov/Licenses/Pages/Fees.aspx"
+    },
+    "elk_bull_permit_if_drawn": {
+     "amount": 581.35,
+     "source_url": "https://fw.ky.gov/Licenses/Pages/Fees.aspx"
+    },
+    "elk_cow_permit_if_drawn": {
+     "amount": 422.8,
+     "source_url": "https://fw.ky.gov/Licenses/Pages/Fees.aspx"
+    },
+    "elk_archery_crossbow_permit_if_drawn": {
+     "amount": 581.35,
+     "source_url": "https://fw.ky.gov/Licenses/Pages/Fees.aspx"
+    },
+    "youth_elk_permit_if_drawn": {
+     "amount": 211.4,
+     "source_url": "https://fw.ky.gov/Licenses/Pages/Fees.aspx"
+    },
+    "out_of_zone_elk_permit_otc": {
+     "amount": 422.8,
+     "source_url": "https://fw.ky.gov/Licenses/Pages/Fees.aspx"
+    },
+    "point_fee": {
+     "amount": null,
+     "notes": "No points",
+     "source_url": "https://fw.ky.gov/Hunt/Pages/Elk-Hunting-Regs.aspx"
+    }
+   }
+  },
+  "guide_steps": [
+   "Create or log in to your 'My Profile' account at fw.ky.gov. You'll need your date of birth and SSN.",
+   "You don't need a hunting license to apply. Only drawn hunters buy the annual hunting license plus the elk permit.",
+   "Between Aug 1 and April 30 (midnight ET), click 'Purchase License' and find the elk applications under 'Permits'. You can apply once each for Bull Firearm, Cow Firearm and Either-Sex Archery/Crossbow, but you can only be drawn for one. Youth 15 and under can also apply for the youth-only hunt.",
+   "Each application is $10 and nonrefundable. There are no group or party applications for the draw.",
+   "A random drawing is held in early May. Check results in My Profile.",
+   "If drawn, buy your elk permit and annual hunting license by midnight June 15, or it goes to the resident-only Loyalty Redraw.",
+   "After drawing, apply for a hunting unit (up to 5 choices, random assignment) by June 30. Up to 3 drawn hunters can apply for units as a party.",
+   "There are no points and no point-only purchase. Unclaimed permits go to the resident Loyalty Redraw, and there's no public leftover sale. An Out-of-Zone elk permit is sold over the counter for counties outside the 16-county elk zone.",
+   "Drawn hunters are blocked for 3 years and must complete the post-season survey by the end of February, or they can't apply the next year."
+  ],
+  "sources": [
+   "https://fw.ky.gov/Hunt/Pages/Elk-Hunting-Regs.aspx",
+   "https://fw.ky.gov/Licenses/Pages/Fees.aspx",
+   "https://fw.ky.gov/News/Pages/Apply-for-the-Kentucky-Elk-Hunt-Drawing-by-April-30.aspx"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "ME",
+  "agency": "Maine Department of Inland Fisheries & Wildlife",
+  "agency_url": "https://www.maine.gov/ifw/hunting-trapping/hunting/species/moose/moose-permit.html",
+  "point_system": {
+   "type": "bonus",
+   "species": [
+    "Moose"
+   ],
+   "residents_only": false,
+   "notes": "Moose uses bonus points, earned on a sliding scale per unsuccessful year: years 1-5 earn 1 point, 6-10 earn 2, 11-15 earn 3, 16+ earn 10. Points are lost if you skip 2 consecutive years, receive a permit, or give incorrect ID info. Residents get at least 90% of permits statewide, nonresidents up to 8%, and lodges up to 2%. Nonresidents may buy extra current-year chances. After drawing a permit there's a 3-year waiting period. Residents 65+ with 30+ points are guaranteed a permit. Maine also runs an antlerless-deer permit lottery, which isn't detailed here."
+  },
+  "species": [
+   "Moose"
+  ],
+  "residents_only_notes": "Open to nonresidents (separate allocation, up to 8% statewide and 10% per WMD and season combined with lodges).",
+  "deadlines": [
+   {
+    "species": "Moose",
+    "type": "application",
+    "date": "2027-05 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.maine.gov/ifw/hunting-trapping/hunting/species/moose/moose-permit.html",
+    "notes": "2026 applications were online only, April 1 to May 18, 2026 at 11:59 p.m. ET."
+   },
+   {
+    "species": "Moose",
+    "type": "point_only",
+    "date": "2027-05 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.maine.gov/ifw/hunting-trapping/hunting/species/moose/moose-permit.html",
+    "notes": "Bonus-point-only option at the same $15 fee, same window."
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Moose",
+    "type": "results",
+    "date": "2027-06 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.maine.gov/ifw/hunting-trapping/hunting/species/moose/moose-permit.html",
+    "notes": "2026 drawing was Sat June 20 in Acton, with results online by 6 p.m. The permit purchase deadline was July 16, 2026 at 11:59 p.m."
+   }
+  ],
+  "fees": {
+   "fee_year": "2026 (lottery) / 2026-27 licenses (fees exclude agent fee)",
+   "resident": {
+    "big_game_hunting_license_16plus": {
+     "amount": 26,
+     "source_url": "https://www.maine.gov/ifw/hunting-trapping/hunting/licenses-permits.html"
+    },
+    "moose_application_or_bonus_point": {
+     "amount": 15,
+     "source_url": "https://www.maine.gov/ifw/hunting-trapping/hunting/species/moose/moose-permit.html"
+    },
+    "moose_permit_if_drawn": {
+     "amount": 52,
+     "source_url": "https://www.maine.gov/ifw/hunting-trapping/hunting/species/moose/moose-permit.html"
+    }
+   },
+   "nonresident": {
+    "big_game_hunting_license_16plus": {
+     "amount": 115,
+     "source_url": "https://www.maine.gov/ifw/hunting-trapping/hunting/licenses-permits.html"
+    },
+    "moose_application_or_bonus_point": {
+     "amount": 15,
+     "source_url": "https://www.maine.gov/ifw/hunting-trapping/hunting/species/moose/moose-permit.html"
+    },
+    "extra_chances_current_year": {
+     "amount": "3 for $25, 6 for $35, 10 for $55",
+     "source_url": "https://www.maine.gov/ifw/hunting-trapping/hunting/species/moose/moose-permit.html",
+     "notes": "current-year drawing only, don't carry over"
+    },
+    "moose_permit_if_drawn": {
+     "amount": 585,
+     "source_url": "https://www.maine.gov/ifw/hunting-trapping/hunting/species/moose/moose-permit.html"
+    }
+   }
+  },
+  "guide_steps": [
+   "Apply online only at the MDIFW moose lottery site. You'll need your MOSES number, or create one.",
+   "You don't need a license to apply, but you must be eligible for a Maine big game license. If drawn, you must buy the big game license ($26 resident, $115 nonresident) before paying for the moose permit.",
+   "During the window (April 1 to May 18 in 2026), pay $15 and choose WMDs, seasons (September Bull, October Bull, October Antlerless), whether you'll accept antlerless or another WMD, and a sub-permittee plus alternate. Nonresidents can add extra chances.",
+   "Not a group application. Your one sub-permittee can hunt with you. Fees are nonrefundable.",
+   "For points only, choose the bonus-point-only option ($15). Apply at least every other year to keep your points.",
+   "The drawing is in late June (June 20 in 2026), with results online that evening. Pay for the permit by the mid-July deadline ($52 resident, $585 nonresident).",
+   "Unclaimed permits aren't sold over the counter. There's also a moose permit auction and permit swap and transfer rules."
+  ],
+  "sources": [
+   "https://www.maine.gov/ifw/hunting-trapping/hunting/species/moose/moose-permit.html",
+   "https://www.maine.gov/ifw/hunting-trapping/hunting/licenses-permits.html",
+   "https://mooselottery.web.maine.gov/online/moose/",
+   "https://moose.informe.org/"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "MI",
+  "agency": "Michigan Department of Natural Resources",
+  "agency_url": "https://www.michigan.gov/dnr/managing-resources/laws/regulations/elk",
+  "point_system": {
+   "type": "weighted (elk); preference (bear)",
+   "species": [
+    "Elk",
+    "Black bear"
+   ],
+   "residents_only": true,
+   "notes": "Elk uses a weighted lottery: 1 chance per past unsuccessful year since 2003, plus 1 for the current application, and it's RESIDENTS ONLY. Bear uses preference points (highest points drawn first) and is open to nonresidents, capped at 5% of licenses per hunt. After an any-elk license you're ineligible for life; after an antlerless-only license, for 10 years. Buying a leftover bear license resets bear points to 0."
+  },
+  "species": [
+   "Elk",
+   "Black bear"
+  ],
+  "residents_only_notes": "ELK IS MICHIGAN-RESIDENT ONLY. Nonresidents can't apply or build chances. Nonresidents may apply for bear (max 5% of licenses in any hunt number).",
+  "deadlines": [
+   {
+    "species": "Elk, Black bear",
+    "type": "application",
+    "date": "2027-06-01 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.michigan.gov/dnr/about/newsroom/releases/2026/04/28/application-period-for-michigan-elk-hunt-opens-friday",
+    "notes": "The 2026 period was May 1 to June 1. The 2027 dates aren't published yet."
+   },
+   {
+    "species": "Elk",
+    "type": "point_only",
+    "date": "2027-06-01 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.michigan.gov/dnr/managing-resources/laws/regulations/elk",
+    "notes": "Choose the 'chance only' application type, $5, in the same window."
+   },
+   {
+    "species": "Black bear",
+    "type": "point_only",
+    "date": "2027-06-01 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.michigan.gov/dnr/managing-resources/laws/regulations/bear",
+    "notes": "Choose the 'preference point only' option, in the same window. It can be set to auto-renew."
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Elk, Black bear",
+    "type": "results",
+    "date": "2027-06 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.michigan.gov/dnr/managing-resources/laws/regulations/elk",
+    "notes": "2026 results came out June 22 at Michigan.gov/DNRLicenses, in the DNR Hunt Fish app, or at 517-284-9453."
+   }
+  ],
+  "fees": {
+   "fee_year": "2026 license year (base license valid through March 31, 2027)",
+   "resident": {
+    "base_license_age_17_64": {
+     "amount": 11,
+     "source_url": "https://www.michigan.gov/dnr/managing-resources/laws/regulations/elk"
+    },
+    "elk_application_or_chance_only": {
+     "amount": 5,
+     "source_url": "https://www.michigan.gov/dnr/managing-resources/laws/regulations/elk"
+    },
+    "elk_receipt_license_if_drawn": {
+     "amount": 100,
+     "source_url": "https://www.michigan.gov/dnr/managing-resources/laws/regulations/elk"
+    },
+    "bear_application_or_point_only": {
+     "amount": 5,
+     "source_url": "https://www.michigan.gov/dnr/managing-resources/laws/regulations/bear"
+    },
+    "bear_license_if_drawn": {
+     "amount": 25,
+     "source_url": "https://www.michigan.gov/dnr/managing-resources/laws/regulations/bear"
+    },
+    "dnr_sportcard_if_no_drivers_license": {
+     "amount": 1,
+     "source_url": "https://www.michigan.gov/dnr/managing-resources/laws/regulations/elk"
+    }
+   },
+   "nonresident": {
+    "base_license_age_17_plus": {
+     "amount": 151,
+     "source_url": "https://www.michigan.gov/dnr/managing-resources/laws/regulations/bear"
+    },
+    "elk_application": {
+     "amount": null,
+     "source_url": "https://www.michigan.gov/dnr/managing-resources/laws/regulations/elk",
+     "notes": "Not eligible. Elk is resident-only."
+    },
+    "bear_application_or_point_only": {
+     "amount": 5,
+     "source_url": "https://www.michigan.gov/dnr/managing-resources/laws/regulations/bear"
+    },
+    "bear_license_if_drawn": {
+     "amount": 25,
+     "source_url": "https://www.michigan.gov/dnr/managing-resources/laws/regulations/bear",
+     "notes": "The DNR bear fee table lists $25 for every age and residency column. Verify at checkout."
+    }
+   }
+  },
+  "guide_steps": [
+   "Use a license agent, Michigan.gov/DNRLicenses or the DNR Hunt Fish app. You'll need a MI driver's license, a state ID or a DNR Sportcard ($1).",
+   "You don't need a base license to apply. If drawn, buy the base license plus the elk receipt or bear license.",
+   "Between May 1 and June 1, buy ONE elk application ($5): 'bull only', 'bull or antlerless', or 'chance only'. Elk applicants must be MI residents with hunter ed (or mentored or apprentice).",
+   "For bear, buy ONE application ($5) choosing a BMU and hunt period, or 'preference point only'. Party applications are allowed. Check the agency site for the max party size and how party points are calculated. A party with any nonresident counts as nonresident.",
+   "Applications are nonrefundable ($5).",
+   "Check results in late June (June 22 in 2026). Drawn elk hunters must attend the mandatory elk orientation.",
+   "If you're not drawn, you automatically get +1 elk chance or +1 bear point for next year.",
+   "Leftover BEAR licenses may go on sale after the draw (buying one resets points to 0). Elk has no leftover sale, but there's an elk/bear hunt transfer program. The Pure Michigan Hunt ($5 each, unlimited, through Dec 31) is a separate lottery that includes an elk license (check agency site for eligibility)."
+  ],
+  "sources": [
+   "https://www.michigan.gov/dnr/managing-resources/laws/regulations/elk",
+   "https://www.michigan.gov/dnr/managing-resources/laws/regulations/bear",
+   "https://www.michigan.gov/dnr/about/newsroom/releases/2026/04/28/application-period-for-michigan-elk-hunt-opens-friday",
+   "https://content.govdelivery.com/accounts/MIDNR/bulletins/41c42e0"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "MN",
+  "agency": "Minnesota Department of Natural Resources",
+  "agency_url": "https://www.dnr.state.mn.us/hunting/seasons.html",
+  "point_system": {
+   "type": "preference (antlerless deer & special deer hunts); random once-in-a-lifetime (elk); bear lottery (point type: check agency site)",
+   "species": [
+    "Antlerless deer permits",
+    "Special deer hunts",
+    "Elk",
+    "Black bear"
+   ],
+   "residents_only": false,
+   "notes": "THERE'S NO STATE MOOSE SEASON (regs: 'There is no state moose hunting season'; only tribal seasons). Elk is a RESIDENT-ONLY, once-in-a-lifetime lottery with parties of 2 sharing one tag. 2 licenses are reserved for applicants with 10+ years of application history. Antlerless deer and special hunt drawings use preference points, kept separately by permit type. Points aren't lost by skipping years, are lost when drawn, and a group uses its lowest member's points. Bear permit-area lottery is open to residents and nonresidents, and the no-quota area is over the counter."
+  },
+  "species": [
+   "Elk",
+   "Black bear",
+   "Deer (antlerless lottery, special hunts)"
+  ],
+  "residents_only_notes": "ELK IS RESIDENT-ONLY. No moose season at all. Bear and deer lotteries are open to nonresidents.",
+  "deadlines": [
+   {
+    "species": "Black bear",
+    "type": "application",
+    "date": "2027-05-07",
+    "status": "confirmed_2027",
+    "source_url": "https://www.dnr.state.mn.us/hunting/seasons.html",
+    "notes": "DNR seasons calendar lists 05/7/27 as the bear lottery deadline, but the 2026-27 regulations booklet says May 1, 2027. Verify with DNR. Applications are available April 2027."
+   },
+   {
+    "species": "Elk",
+    "type": "application",
+    "date": "2027 (applications open May 2027; deadline check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://files.dnr.state.mn.us/rlp/regulations/hunting/full_regs.pdf",
+    "notes": "Regs: 'Applications for the 2027 hunt will be taken starting in May 2027.' The 2026 window was about June 12 to July 7 (per the elk page)."
+   },
+   {
+    "species": "Deer (antlerless permit lottery & special hunts)",
+    "type": "application",
+    "date": "2027-09-09",
+    "status": "confirmed_2027",
+    "source_url": "https://www.dnr.state.mn.us/hunting/seasons.html",
+    "notes": "DNR calendar: 09/9/27 antlerless and special hunt lottery deadline. You enter by declaring a lottery area when buying the firearm or muzzleloader license."
+   },
+   {
+    "species": "Deer (youth deer hunt)",
+    "type": "application",
+    "date": "2027-08-20",
+    "status": "confirmed_2027",
+    "source_url": "https://www.dnr.state.mn.us/hunting/seasons.html"
+   },
+   {
+    "species": "Moose",
+    "type": "application",
+    "date": "n/a (no state moose season)",
+    "status": "confirmed_2027",
+    "source_url": "https://files.dnr.state.mn.us/rlp/regulations/hunting/full_regs.pdf"
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Black bear",
+    "type": "results",
+    "date": "check agency site",
+    "status": "estimated_from_2026",
+    "source_url": "https://files.dnr.state.mn.us/rlp/regulations/hunting/full_regs.pdf",
+    "notes": "2026 winners had to buy their license by Aug 1. Surplus licenses go on sale at noon Aug 5 (2026) / Aug 4 (2027 per DNR calendar)."
+   },
+   {
+    "species": "Deer (antlerless lottery)",
+    "type": "results",
+    "date": "2027-09 (end of September; check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://files.dnr.state.mn.us/rlp/regulations/hunting/full_regs.pdf",
+    "notes": "Info is available by the end of September. Surplus antlerless permits are first come, first served from Oct 5 at 5 p.m. (2026)."
+   }
+  ],
+  "fees": {
+   "fee_year": "2026-27 regulations",
+   "resident": {
+    "elk_application": {
+     "amount": 5,
+     "source_url": "https://www.dnr.state.mn.us/hunting/elk/index.html",
+     "notes": "nonrefundable. The 2026-27 regs fee table lists $4."
+    },
+    "elk_license_if_drawn": {
+     "amount": 288,
+     "source_url": "https://www.dnr.state.mn.us/hunting/elk/index.html",
+     "notes": "total license cost"
+    },
+    "bear_application": {
+     "amount": 4,
+     "source_url": "https://files.dnr.state.mn.us/rlp/regulations/hunting/full_regs.pdf"
+    },
+    "bear_license_adult": {
+     "amount": 44,
+     "source_url": "https://files.dnr.state.mn.us/rlp/regulations/hunting/full_regs.pdf"
+    },
+    "deer_license_firearm_archery_or_muzzleloader_adult": {
+     "amount": 34,
+     "source_url": "https://files.dnr.state.mn.us/rlp/regulations/hunting/full_regs.pdf"
+    },
+    "deer_bonus_permit": {
+     "amount": 18,
+     "source_url": "https://files.dnr.state.mn.us/rlp/regulations/hunting/full_regs.pdf"
+    }
+   },
+   "nonresident": {
+    "elk_application": {
+     "amount": null,
+     "source_url": "https://www.dnr.state.mn.us/hunting/elk/index.html",
+     "notes": "Not eligible, resident-only"
+    },
+    "bear_application": {
+     "amount": 4,
+     "source_url": "https://files.dnr.state.mn.us/rlp/regulations/hunting/full_regs.pdf"
+    },
+    "bear_license_adult": {
+     "amount": 230,
+     "source_url": "https://files.dnr.state.mn.us/rlp/regulations/hunting/full_regs.pdf"
+    },
+    "deer_license_firearm_archery_or_muzzleloader_adult": {
+     "amount": 185,
+     "source_url": "https://files.dnr.state.mn.us/rlp/regulations/hunting/full_regs.pdf"
+    },
+    "deer_bonus_permit": {
+     "amount": 91,
+     "source_url": "https://files.dnr.state.mn.us/rlp/regulations/hunting/full_regs.pdf"
+    }
+   }
+  },
+  "guide_steps": [
+   "Create or log in to a Minnesota DNR Electronic Licensing System (ELS) account (online or the DNR mobile app).",
+   "BEAR: apply in April-May with a bear application ($4), choosing a bear permit area. Groups are allowed: the first applicant creates a lottery group number and others join with that number and their last name. Winners must buy the bear license by Aug 1. Leftover and surplus licenses go on sale first come, first served in early August. The no-quota area is over the counter.",
+   "ELK (residents only): apply when the window opens (May 2027), choosing a season, zone and license type, individually or as a party of 2 (one shared tag). Winners attend a mandatory orientation and pay $288. It's once in a lifetime.",
+   "ANTLERLESS DEER: buy a firearm or muzzleloader deer license and declare a lottery area by the September deadline to be entered automatically. Unsuccessful applicants gain preference. Surplus permits sell first come, first served in October.",
+   "Fees are nonrefundable. There's no separate point-only purchase listed, since deer preference builds by applying.",
+   "MOOSE: there's no state season. Don't apply."
+  ],
+  "sources": [
+   "https://www.dnr.state.mn.us/hunting/seasons.html",
+   "https://files.dnr.state.mn.us/rlp/regulations/hunting/full_regs.pdf",
+   "https://www.dnr.state.mn.us/hunting/elk/index.html",
+   "https://www.dnr.state.mn.us/hunting/bear/index.html"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "MO",
+  "agency": "Missouri Department of Conservation",
+  "agency_url": "https://mdc.mo.gov/hunting-trapping/species/elk/elk-application-process",
+  "point_system": {
+   "type": "none",
+   "species": [
+    "Elk",
+    "Black bear"
+   ],
+   "residents_only": true,
+   "notes": "Elk and bear are both random drawings with no points, and both are RESIDENTS ONLY. You get 1 application per person per year. At least 10% of elk permits go to approved resident landowners (20+ contiguous acres in Carter, Reynolds or Shannon counties). Drawn elk hunters can't apply again for 10 years. There are no antlerless elk permits currently."
+  },
+  "species": [
+   "Elk",
+   "Black bear"
+  ],
+  "residents_only_notes": "ELK AND BEAR ARE MISSOURI-RESIDENT ONLY. Nonresidents can't apply.",
+  "deadlines": [
+   {
+    "species": "Elk, Black bear",
+    "type": "application",
+    "date": "2027-05-31 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://mdc.mo.gov/sites/default/files/2026-04/Elk%20Hunting%20Digest_2026_508.pdf",
+    "notes": "The digests list the application period as May 1-31."
+   },
+   {
+    "species": "Elk, Black bear",
+    "type": "point_only",
+    "date": "n/a",
+    "status": "confirmed_2027",
+    "source_url": "https://mdc.mo.gov/hunting-trapping/species/elk/elk-application-process",
+    "notes": "No points."
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Elk, Black bear",
+    "type": "results",
+    "date": "2027-07-01 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://mdc.mo.gov/sites/default/files/2026-04/Elk%20Hunting%20Digest_2026_508.pdf",
+    "notes": "Results available by July 1. Check under Manage Your Account > View My Special Hunt History at mdc.mo.gov/buypermits. Permits are sold starting July 1."
+   }
+  ],
+  "fees": {
+   "fee_year": "2026 permit year",
+   "resident": {
+    "elk_application": {
+     "amount": 10,
+     "source_url": "https://mdc.mo.gov/sites/default/files/2026-04/Elk%20Hunting%20Digest_2026_508.pdf",
+     "notes": "nonrefundable"
+    },
+    "resident_antlered_elk_permit_if_drawn": {
+     "amount": 50,
+     "source_url": "https://mdc.mo.gov/sites/default/files/2026-04/Elk%20Hunting%20Digest_2026_508.pdf"
+    },
+    "bear_application": {
+     "amount": 10,
+     "source_url": "https://mdc.mo.gov/sites/default/files/2026-04/Black%20Bear%20Hunting%20Digest_2026_508.pdf",
+     "notes": "nonrefundable"
+    },
+    "resident_black_bear_permit_if_drawn": {
+     "amount": 25,
+     "source_url": "https://mdc.mo.gov/sites/default/files/2026-04/Black%20Bear%20Hunting%20Digest_2026_508.pdf"
+    }
+   },
+   "nonresident": {
+    "elk_application": {
+     "amount": null,
+     "source_url": "https://mdc.mo.gov/hunting-trapping/species/elk/elk-application-process",
+     "notes": "Not eligible, resident-only"
+    },
+    "bear_application": {
+     "amount": null,
+     "source_url": "https://mdc.mo.gov/sites/default/files/2026-04/Black%20Bear%20Hunting%20Digest_2026_508.pdf",
+     "notes": "Not eligible, resident-only"
+    }
+   }
+  },
+  "guide_steps": [
+   "Create or log in to your MDC account at mdc.mo.gov/buypermits (or use the MO Hunting app). You'll need your Conservation Number.",
+   "You don't need a license to apply. You need hunter education (or an exemption) before buying the permit if drawn.",
+   "From May 1-31, submit ONE Resident Antlered Elk Application ($10) and/or ONE Black Bear application ($10, choose a Bear Management Zone). Must be 11+ by opening day.",
+   "No parties, no points, and applications are nonrefundable and nontransferable. Resident landowners must be approved before applying to use the landowner allocation.",
+   "Check results by July 1. If drawn, buy your elk permit ($50) or bear permit ($25) starting July 1.",
+   "There's no leftover sale. Bear hunters must call 800-668-4045 each day to check whether the zone harvest quota has been met."
+  ],
+  "sources": [
+   "https://mdc.mo.gov/hunting-trapping/species/elk/elk-application-process",
+   "https://mdc.mo.gov/sites/default/files/2026-04/Elk%20Hunting%20Digest_2026_508.pdf",
+   "https://mdc.mo.gov/sites/default/files/2026-04/Black%20Bear%20Hunting%20Digest_2026_508.pdf",
+   "https://mdc.mo.gov/hunting-trapping/species/bear/bear-application-draw-process"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "NC",
+  "agency": "North Carolina Wildlife Resources Commission",
+  "agency_url": "https://www.ncwildlife.gov/hunting/license-types-and-fees/permit-hunting-opportunities",
+  "point_system": {
+   "type": "none (raffle + auction)",
+   "species": [
+    "Elk"
+   ],
+   "residents_only": true,
+   "notes": "No draw or points. House Bill 747 (signed July 7, 2026) has WRC issue 2 elk permits for 2027: 1 RESIDENT-only permit by raffle ($20 per ticket, or 30 tickets for $500) and 1 by a nonprofit auction. The permits are nontransferable. After 2027, WRC may raffle more permits, but half of the raffle permits must go to residents. Season is Oct 1 to Nov 1."
+  },
+  "species": [
+   "Elk"
+  ],
+  "residents_only_notes": "The 2027 raffle permit is RESIDENT-ONLY. Nonresidents can only get the nonprofit auction permit.",
+  "deadlines": [
+   {
+    "species": "Elk",
+    "type": "application",
+    "date": "2027-07 (raffle tickets expected July 2027; check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://dashboard.ncleg.gov/api/Services/BillSummary/2025/H747-SMSV-114(e5)-v-2",
+    "notes": "This is a new program, so there's no 2026 precedent. A NCWRC biologist told WLOS (Jul 21, 2026) that permits will be available in July 2027. Official dates aren't published yet."
+   },
+   {
+    "species": "Elk",
+    "type": "point_only",
+    "date": "n/a",
+    "status": "confirmed_2027",
+    "source_url": "https://dashboard.ncleg.gov/api/Services/BillSummary/2025/H747-SMSV-114(e5)-v-2",
+    "notes": "No points."
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Elk",
+    "type": "results",
+    "date": "check agency site",
+    "status": "estimated_from_2026",
+    "source_url": "https://dashboard.ncleg.gov/api/Services/BillSummary/2025/H747-SMSV-114(e5)-v-2",
+    "notes": "Raffle drawing date isn't published."
+   }
+  ],
+  "fees": {
+   "fee_year": "2027 (per HB 747)",
+   "resident": {
+    "elk_raffle_ticket": {
+     "amount": 20,
+     "source_url": "https://dashboard.ncleg.gov/api/Services/BillSummary/2025/H747-SMSV-114(e5)-v-2",
+     "notes": "or 30 tickets for $500. Requires a valid NC hunting license or a license exemption."
+    },
+    "hunting_license": {
+     "amount": "check agency site",
+     "source_url": "https://www.ncwildlife.gov/hunting/license-types-and-fees"
+    }
+   },
+   "nonresident": {
+    "elk_raffle_ticket": {
+     "amount": null,
+     "source_url": "https://dashboard.ncleg.gov/api/Services/BillSummary/2025/H747-SMSV-114(e5)-v-2",
+     "notes": "Not eligible. The 2027 raffle permit is resident-only."
+    },
+    "auction_permit": {
+     "amount": "check agency site",
+     "source_url": "https://dashboard.ncleg.gov/api/Services/BillSummary/2025/H747-SMSV-114(e5)-v-2",
+     "notes": "Sold by a WRC-selected nonprofit conservation group"
+    },
+    "hunting_license": {
+     "amount": "check agency site",
+     "source_url": "https://www.ncwildlife.gov/hunting/license-types-and-fees"
+    }
+   }
+  },
+  "guide_steps": [
+   "This is NC's first modern elk season (2027, Oct 1 to Nov 1). It's not a draw. One permit is raffled and one is auctioned.",
+   "Have a valid NC hunting license, or qualify for an exemption, before buying raffle tickets.",
+   "Buy raffle tickets from NCWRC when sales open (expected July 2027): $20 each, max 30 for $500. Residents only for 2027.",
+   "Watch the RMEF or WRC-selected nonprofit for the auction permit (open to anyone).",
+   "Permits are nontransferable. Any harvested elk must be reported and presented to WRC staff.",
+   "There are no points, groups, or leftovers."
+  ],
+  "sources": [
+   "https://dashboard.ncleg.gov/api/Services/BillSummary/2025/H747-SMSV-114(e5)-v-2",
+   "https://wlos.com/news/local/elk-hunting-permits-north-carolina-wildlife-resource-commission-ncwrc-season-raffles-auction-funds-conservation-hunters-private-land-fines-house-bill-747-nonprofit-lottery",
+   "https://www.rmef.org/media/rmef-to-auction-permit-for-north-carolinas-first-modern-day-elk-hunt/"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "ND",
+  "agency": "North Dakota Game and Fish Department",
+  "agency_url": "https://gf.nd.gov/hunting/lotteries",
+  "point_system": {
+   "type": "weighted bonus (deer gun, muzzleloader deer, pronghorn); random lottery (elk, moose, bighorn sheep)",
+   "species": [
+    "Deer gun",
+    "Muzzleloader deer",
+    "Pronghorn",
+    "Elk",
+    "Moose",
+    "Bighorn sheep"
+   ],
+   "residents_only": false,
+   "notes": "Weighted lottery: if you miss your first choice in the first lottery, you earn a bonus point. Points are doubled in years 2-4 and cubed from year 5 (e.g. year 5 = 4^3+1 = 65 entries). Elk, moose, and bighorn sheep are not weighted. MOOSE, ELK and PRONGHORN are RESIDENT-ONLY. Nonresidents can apply for deer gun (first lottery) and bighorn sheep (max 1 nonresident license). Nonresident deer bow is over the counter. Check the agency site for any once-in-a-lifetime rules on elk, moose and sheep."
+  },
+  "species": [
+   "Deer",
+   "Pronghorn",
+   "Elk",
+   "Moose",
+   "Bighorn sheep"
+  ],
+  "residents_only_notes": "Moose, elk and pronghorn lotteries are North Dakota residents only. Nonresidents can apply for deer gun and bighorn sheep (only 1 nonresident sheep license).",
+  "deadlines": [
+   {
+    "species": "Elk, Moose, Bighorn sheep",
+    "type": "application",
+    "date": "2027-03 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://gf.nd.gov/hunting/season-dates",
+    "notes": "2026 deadline was Wed March 25, 2026. Regs say the deadline is set by the Director when the application period opens."
+   },
+   {
+    "species": "Deer gun (incl. nonresident)",
+    "type": "application",
+    "date": "2027-06 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://gf.nd.gov/hunting/season-dates",
+    "notes": "2026 deer gun lottery deadline was Wed June 3, 2026."
+   },
+   {
+    "species": "Pronghorn",
+    "type": "application",
+    "date": "2027-08 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://gf.nd.gov/hunting/season-dates",
+    "notes": "2026 pronghorn gun/bow lottery deadline was Wed Aug 5, 2026."
+   },
+   {
+    "species": "Deer gun, Pronghorn",
+    "type": "point_only",
+    "date": "check agency site",
+    "status": "estimated_from_2026",
+    "source_url": "https://gf.nd.gov/licensing/lotteries/faq",
+    "notes": "Points accrue when you miss your first choice in the first lottery. Check the agency site for a separate point-only option."
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Bighorn sheep",
+    "type": "results",
+    "date": "2027-09 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://gf.nd.gov/regulations/moose-elk-sheep",
+    "notes": "Sheep license numbers are set Sept 1, and selected applicants are contacted Sept 1-14 (2026)."
+   },
+   {
+    "species": "Elk, Moose, Deer gun, Pronghorn",
+    "type": "results",
+    "date": "check agency site",
+    "status": "estimated_from_2026",
+    "source_url": "https://gf.nd.gov/hunting/lotteries",
+    "notes": "View lottery results via the Lotteries page."
+   }
+  ],
+  "fees": {
+   "fee_year": "2026",
+   "resident": {
+    "fishing_hunting_furbearer_certificate": {
+     "amount": 2,
+     "source_url": "https://gf.nd.gov/licensing/resident"
+    },
+    "general_game_and_habitat_license": {
+     "amount": 20,
+     "source_url": "https://gf.nd.gov/licensing/resident"
+    },
+    "deer_gun_license_16plus": {
+     "amount": 35,
+     "source_url": "https://gf.nd.gov/licensing/resident"
+    },
+    "pronghorn_license_16plus": {
+     "amount": 35,
+     "source_url": "https://gf.nd.gov/licensing/resident"
+    },
+    "elk_license_16plus": {
+     "amount": 35,
+     "source_url": "https://gf.nd.gov/licensing/resident"
+    },
+    "moose_license_16plus": {
+     "amount": 35,
+     "source_url": "https://gf.nd.gov/licensing/resident"
+    },
+    "bighorn_sheep_license_16plus": {
+     "amount": 35,
+     "source_url": "https://gf.nd.gov/licensing/resident"
+    },
+    "elk_moose_sheep_application_fee": {
+     "amount": 5,
+     "source_url": "https://gf.nd.gov/licensing/resident",
+     "notes": "nonrefundable"
+    }
+   },
+   "nonresident": {
+    "fishing_hunting_furbearer_certificate": {
+     "amount": 5,
+     "source_url": "https://gf.nd.gov/licensing/nonresident"
+    },
+    "general_game_and_habitat_license": {
+     "amount": 20,
+     "source_url": "https://gf.nd.gov/licensing/nonresident"
+    },
+    "deer_gun_first_lottery": {
+     "amount": 355,
+     "source_url": "https://gf.nd.gov/licensing/nonresident",
+     "notes": "includes $5 nonrefundable application fee. After the 2nd lottery, a nonresident deer gun license is $55 if available."
+    },
+    "whitetail_deer_bow_otc": {
+     "amount": 350,
+     "source_url": "https://gf.nd.gov/licensing/nonresident"
+    },
+    "bighorn_sheep": {
+     "amount": 600,
+     "source_url": "https://gf.nd.gov/licensing/nonresident",
+     "notes": "includes $100 nonrefundable application fee. Winners pay an additional $500."
+    },
+    "elk_moose_pronghorn": {
+     "amount": null,
+     "source_url": "https://gf.nd.gov/hunting/lotteries",
+     "notes": "resident-only"
+    }
+   }
+  },
+  "guide_steps": [
+   "Create or log in to the ND Game and Fish online licensing system (gf.nd.gov, Buy and Apply). You need a hunter education certificate (or apprentice license).",
+   "Apply for the species lottery online during its window: elk, moose and sheep (deadline about late March), deer gun (early June), pronghorn (early August).",
+   "Fees: for deer gun and pronghorn, the license price is paid at application (the nonresident deer gun price includes a $5 nonrefundable application fee). Check the agency site for how unsuccessful applicants get refunds. Elk, moose and sheep require a nonrefundable application fee of $5 resident or $100 nonresident.",
+   "Party/group applications: check agency site for each species.",
+   "Missing your first choice in the first deer gun or pronghorn lottery earns a bonus point (doubled in years 2-4, cubed from year 5).",
+   "After the first lottery, there are second lotteries and then first-come, first-served leftovers for remaining deer and elk licenses (nonresident deer gun drops to $55 after the 2nd lottery)."
+  ],
+  "sources": [
+   "https://gf.nd.gov/hunting/lotteries",
+   "https://gf.nd.gov/licensing/lotteries/faq",
+   "https://gf.nd.gov/hunting/season-dates",
+   "https://gf.nd.gov/licensing/nonresident",
+   "https://gf.nd.gov/licensing/resident",
+   "https://gf.nd.gov/regulations/moose-elk-sheep"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "NE",
+  "agency": "Nebraska Game and Parks Commission",
+  "agency_url": "https://outdoornebraska.gov/permits/hunting-permits/big-game-permits/",
+  "point_system": {
+   "type": "preference (deer, antelope, landowner elk); bonus (general bull elk, moving to bonus-squared)",
+   "species": [
+    "Deer",
+    "Pronghorn",
+    "Elk",
+    "Bighorn sheep"
+   ],
+   "residents_only": false,
+   "notes": "Deer and antelope draws use preference points: highest points drawn first, and all points are lost when awarded. General bull elk uses bonus points (1 extra chance per point, first-choice bull only). NGPC's 2026 guide says the general elk draw 'is moving to a bonus point squared system'. Antlerless elk is a straight lottery from the same application. GENERAL ELK is RESIDENT-ONLY, but nonresident landowners can apply for landowner elk (0.9 points per year). The bighorn sheep lottery is resident-only and once in a lifetime. Nonresident antelope is limited to archery draw (250), landowner, and late doe/fawn. Party hunting isn't allowed, and you get one elk application per year."
+  },
+  "species": [
+   "Deer",
+   "Pronghorn",
+   "Elk",
+   "Bighorn sheep"
+  ],
+  "residents_only_notes": "General elk draw and the bighorn sheep lottery are resident-only. Nonresident landowners can apply for landowner elk. Nonresidents can draw deer in many units and Statewide Archery/Muzzleloader, but only Statewide Archery for antelope.",
+  "deadlines": [
+   {
+    "species": "Deer, Antelope, Elk",
+    "type": "application",
+    "date": "2027-06 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://outdoornebraska.gov/permits/hunting-permits/big-game-permits/",
+    "notes": "2026 draw window was June 1-12 (online by 11:59 p.m. CT, mail by 5 p.m. CT)."
+   },
+   {
+    "species": "Elk, Antelope (landowner)",
+    "type": "application",
+    "date": "2027-05 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://outdoornebraska.gov/permits/hunting-permits/big-game-permits/",
+    "notes": "2026 landowner window was May 18-29."
+   },
+   {
+    "species": "Deer, Antelope, Elk",
+    "type": "point_only",
+    "date": "2027-06 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://outdoornebraska.gov/guides-maps/hunting-guides/big-game-guide/",
+    "notes": "Buy one point per species in place of applying, during the application period."
+   },
+   {
+    "species": "Bighorn sheep (resident lottery)",
+    "type": "application",
+    "date": "2027-08 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://outdoornebraska.gov/guides-maps/hunting-guides/big-game-guide/",
+    "notes": "2026 window was April 20 to Aug 7."
+   },
+   {
+    "species": "Multispecies lottery",
+    "type": "application",
+    "date": "2027-07 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://outdoornebraska.gov/permits/hunting-permits/big-game-permits/",
+    "notes": "2026 window was Jan 2 to July 2. Open to residents and nonresidents."
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Deer, Antelope, Elk",
+    "type": "results",
+    "date": "2027-06 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://outdoornebraska.gov/permits/hunting-permits/big-game-permits/",
+    "notes": "2026 results were on or before June 19. Pay for awarded antelope by July 7 and elk by July 6, 2026, or forfeit the permit AND your points. Remaining permits went on sale Aug 5."
+   }
+  ],
+  "fees": {
+   "fee_year": "2026 and 2027 prices (NGPC permit pricing page lists both; 2027 shown where available)",
+   "resident": {
+    "habitat_stamp": {
+     "amount": 25,
+     "source_url": "https://outdoornebraska.gov/permits/permit-pricing/",
+     "notes": "1-year stamp, required for big game"
+    },
+    "elk_permit_either_sex_or_antlerless_2027": {
+     "amount": 213,
+     "source_url": "https://outdoornebraska.gov/permits/permit-pricing/",
+     "notes": "$11 application fee included. $210 in 2026."
+    },
+    "elk_bonus_point_2027": {
+     "amount": 28.5,
+     "source_url": "https://outdoornebraska.gov/permits/permit-pricing/",
+     "notes": "$26 in 2026"
+    },
+    "deer_firearm_muzzle_archery_2027": {
+     "amount": 45,
+     "source_url": "https://outdoornebraska.gov/permits/permit-pricing/",
+     "notes": "$42 in 2026. Draw permits add an $8 nonrefundable application fee in 2027 ($7 in 2026)."
+    },
+    "deer_preference_point_2027": {
+     "amount": 25.5,
+     "source_url": "https://outdoornebraska.gov/permits/permit-pricing/",
+     "notes": "$22 in 2026"
+    },
+    "antelope_draw_permit_2027": {
+     "amount": 52,
+     "source_url": "https://outdoornebraska.gov/permits/permit-pricing/",
+     "notes": "$7 application fee included. $49 in 2026."
+    },
+    "antelope_preference_point_2027": {
+     "amount": 24.5,
+     "source_url": "https://outdoornebraska.gov/permits/permit-pricing/",
+     "notes": "$22 in 2026"
+    },
+    "bighorn_lottery_application": {
+     "amount": 34,
+     "source_url": "https://outdoornebraska.gov/guides-maps/hunting-guides/big-game-guide/",
+     "notes": "nonrefundable, 2026"
+    }
+   },
+   "nonresident": {
+    "habitat_stamp": {
+     "amount": 25,
+     "source_url": "https://outdoornebraska.gov/permits/permit-pricing/"
+    },
+    "deer_firearm_muzzle_archery_2027": {
+     "amount": 395,
+     "source_url": "https://outdoornebraska.gov/permits/permit-pricing/",
+     "notes": "$372 in 2026. $8 nonrefundable application fee for draw permits in 2027."
+    },
+    "deer_preference_point_2027": {
+     "amount": 67,
+     "source_url": "https://outdoornebraska.gov/permits/permit-pricing/",
+     "notes": "$57 in 2026"
+    },
+    "antelope_draw_permit_2027": {
+     "amount": 380,
+     "source_url": "https://outdoornebraska.gov/permits/permit-pricing/",
+     "notes": "$267 in 2026"
+    },
+    "antelope_preference_point_2027": {
+     "amount": 66,
+     "source_url": "https://outdoornebraska.gov/permits/permit-pricing/",
+     "notes": "$57 in 2026"
+    },
+    "landowner_elk_2027": {
+     "amount": 609,
+     "source_url": "https://outdoornebraska.gov/permits/permit-pricing/",
+     "notes": "nonresident landowners only. $602 in 2026."
+    },
+    "landowner_elk_preference_point_2027": {
+     "amount": 70,
+     "source_url": "https://outdoornebraska.gov/permits/permit-pricing/",
+     "notes": "$61 in 2026"
+    },
+    "general_elk": {
+     "amount": null,
+     "source_url": "https://outdoornebraska.gov/permits/hunting-permits/big-game-permits/",
+     "notes": "resident-only"
+    }
+   }
+  },
+  "guide_steps": [
+   "Create or log in to a GoOutdoorsNE.com account. You can also apply by mail or in person. You'll need the last 4 of your SSN and a hunter or bowhunter ed number if required.",
+   "You don't need a small-game permit for big game, but you do need a Habitat Stamp ($25).",
+   "During the June draw window (June 1-12 in 2026), apply for ONE draw permit per species (deer: residents Platte/Frenchman only, nonresidents the listed units plus Statewide Archery/Muzzleloader). Choose first and second choices.",
+   "No party or group hunting or applications (NGPC: 'Party hunting is not allowed').",
+   "Instead of applying, you can buy one preference point (deer or antelope) or one bonus point (resident elk) during the same window.",
+   "Results come out about a week after closing (by June 19 in 2026). Pay for awarded permits by early July, or forfeit the permit and your points.",
+   "After the draw, there are timed over-the-counter sales: resident sales (July 8), nonresident sales (July 22), then all remaining permits (Aug 5, 10 a.m. CT). Many deer 'Buy units' never need a draw."
+  ],
+  "sources": [
+   "https://outdoornebraska.gov/permits/hunting-permits/big-game-permits/",
+   "https://outdoornebraska.gov/guides-maps/hunting-guides/big-game-guide/",
+   "https://outdoornebraska.gov/permits/permit-pricing/"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "NH",
+  "agency": "New Hampshire Fish and Game Department",
+  "agency_url": "https://www.wildlife.nh.gov/hunting-nh/moose-hunting-new-hampshire/moose-hunt-lottery",
+  "point_system": {
+   "type": "bonus",
+   "species": [
+    "Moose"
+   ],
+   "residents_only": false,
+   "notes": "Bonus points give 1 extra chance per consecutive year applied without being drawn. You can apply for a point only. Points are lost if you miss a year or accept a permit. One application per person per year. About 85% of permits go to residents, and the nonresident cap is based on the prior year's nonresident hunting license sales. Only 33 permits in 2026 (odds 1 in 109 resident, 1 in 495 nonresident)."
+  },
+  "species": [
+   "Moose"
+  ],
+  "residents_only_notes": "Open to nonresidents (capped, about 15% of permits).",
+  "deadlines": [
+   {
+    "species": "Moose",
+    "type": "application",
+    "date": "2027-05 (late May; check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://nhfishgame.com/2026/05/07/the-2026-nh-moose-hunt-lottery-deadline-is-friday-may-29/",
+    "notes": "2026 deadline was midnight ET Fri May 29 (online or postmarked)."
+   },
+   {
+    "species": "Moose",
+    "type": "point_only",
+    "date": "2027-05 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://nhfishgame.com/2026/05/07/the-2026-nh-moose-hunt-lottery-deadline-is-friday-may-29/",
+    "notes": "Bonus-point-only application, same deadline."
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Moose",
+    "type": "results",
+    "date": "2027-06 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://nhfishgame.com/2026/06/19/lucky-day-for-2026-new-hampshire-moose-hunt-permit-winners/",
+    "notes": "2026 winners were announced June 19 and notified by mail."
+   }
+  ],
+  "fees": {
+   "fee_year": "2026",
+   "resident": {
+    "lottery_application": {
+     "amount": 15,
+     "source_url": "https://nhfishgame.com/2026/05/07/the-2026-nh-moose-hunt-lottery-deadline-is-friday-may-29/",
+     "notes": "nonrefundable"
+    },
+    "moose_permit_if_drawn": {
+     "amount": 150,
+     "source_url": "https://www.law.cornell.edu/regulations/new-hampshire/N-H-Admin-Code-SS-Fis-1102.09"
+    },
+    "hunting_license": {
+     "amount": "check agency site",
+     "source_url": "https://www.wildlife.nh.gov/hunting-nh/moose-hunting-new-hampshire/moose-hunt-lottery"
+    }
+   },
+   "nonresident": {
+    "lottery_application": {
+     "amount": 25,
+     "source_url": "https://nhfishgame.com/2026/05/07/the-2026-nh-moose-hunt-lottery-deadline-is-friday-may-29/",
+     "notes": "nonrefundable"
+    },
+    "moose_permit_if_drawn": {
+     "amount": 500,
+     "source_url": "https://www.law.cornell.edu/regulations/new-hampshire/N-H-Admin-Code-SS-Fis-1102.09"
+    },
+    "hunting_license": {
+     "amount": "check agency site",
+     "source_url": "https://www.wildlife.nh.gov/hunting-nh/moose-hunting-new-hampshire/moose-hunt-lottery"
+    }
+   }
+  },
+  "guide_steps": [
+   "Apply online through the NH Fish and Game licensing site, or use a mail-in application, a license agent, or drop off at Concord HQ.",
+   "Apply once per year by the late-May deadline ($15 resident, $25 nonresident). Must be 16+.",
+   "Rank ALL Wildlife Management Units to improve your odds. You can decline the permit if drawn for a unit you don't want.",
+   "No group applications, but winners may hunt with a subpermittee and guide.",
+   "If you can't hunt this year, submit a bonus-point-only application to keep your streak. Missing a year wipes your points.",
+   "There's a random computerized drawing in mid-June, and winners are notified by mail. Pay the permit fee ($150 resident, $500 nonresident). Alternates are drawn too.",
+   "There's no leftover sale. The season is 9 days starting the third Saturday in October."
+  ],
+  "sources": [
+   "https://www.wildlife.nh.gov/hunting-nh/moose-hunting-new-hampshire/moose-hunt-lottery",
+   "https://nhfishgame.com/2026/05/07/the-2026-nh-moose-hunt-lottery-deadline-is-friday-may-29/",
+   "https://nhfishgame.com/2026/06/19/lucky-day-for-2026-new-hampshire-moose-hunt-permit-winners/",
+   "https://www.law.cornell.edu/regulations/new-hampshire/N-H-Admin-Code-SS-Fis-1102.09"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "OK",
+  "agency": "Oklahoma Department of Wildlife Conservation",
+  "agency_url": "https://www.wildlifedepartment.com/hunting/controlledhunts",
+  "point_system": {
+   "type": "weighted (preference points act as extra chances)",
+   "species": [
+    "Elk",
+    "Pronghorn",
+    "Deer (controlled hunts)",
+    "Spring turkey"
+   ],
+   "residents_only": false,
+   "notes": "This isn't a true preference system. Each point is one extra application in a random draw. 1 point per unsuccessful category. Points are lost when drawn (unless you bought PointGuard) and wiped after 5 straight years without applying. Group points are averaged. ELK and PRONGHORN are ONCE-IN-A-LIFETIME. Half of the elk and pronghorn permits are drawn first from applicants with 20+ points. Big game is drawn in order (elk, then antelope, then deer), and you can win only one. New option: buy 1 extra point per category ($10 resident, $50 nonresident). Open to nonresidents."
+  },
+  "species": [
+   "Elk",
+   "Pronghorn",
+   "Deer"
+  ],
+  "residents_only_notes": "Open to residents and nonresidents. Elk and pronghorn are once in a lifetime.",
+  "deadlines": [
+   {
+    "species": "Elk, Pronghorn, Deer (controlled hunts)",
+    "type": "application",
+    "date": "2027-05 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts",
+    "notes": "2026 application period was April 1 to May 20, 2026."
+   },
+   {
+    "species": "Elk, Pronghorn, Deer",
+    "type": "point_only",
+    "date": "2027-05 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/need-to-know",
+    "notes": "Choose Preference Point Only per category during the online application period. It's included in the application fee."
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Elk, Pronghorn, Deer",
+    "type": "results",
+    "date": "check agency site",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts",
+    "notes": "Results date isn't stated on the pages checked."
+   }
+  ],
+  "fees": {
+   "fee_year": "2026",
+   "resident": {
+    "hunting_license": {
+     "amount": "check agency site",
+     "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/need-to-know",
+     "notes": "Resident annual, fiscal-year or 5-year hunting license required BEFORE applying"
+    },
+    "controlled_hunt_application": {
+     "amount": 10,
+     "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/cost",
+     "notes": "once per person per year, all categories. Nonrefundable."
+    },
+    "extra_preference_point_per_category": {
+     "amount": 10,
+     "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/need-to-know"
+    },
+    "pointguard": {
+     "amount": 10,
+     "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/need-to-know"
+    },
+    "extra_hunt_choice": {
+     "amount": 3,
+     "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/need-to-know"
+    },
+    "elk_license_if_drawn": {
+     "amount": 51,
+     "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/cost"
+    },
+    "antelope_license_if_drawn": {
+     "amount": 51,
+     "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/cost"
+    },
+    "bonus_deer_license_if_drawn": {
+     "amount": 36,
+     "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/cost"
+    },
+    "wichita_mtns_nwr_elk_user_fee": {
+     "amount": 50,
+     "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/cost"
+    }
+   },
+   "nonresident": {
+    "hunting_license": {
+     "amount": "check agency site",
+     "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/need-to-know",
+     "notes": "Any valid OK nonresident hunting license (annual, fiscal-year or 5-day) required BEFORE applying. Nonrefundable."
+    },
+    "controlled_hunt_application": {
+     "amount": 50,
+     "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/cost"
+    },
+    "permit_fee_if_drawn": {
+     "amount": 50,
+     "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/cost"
+    },
+    "extra_preference_point_per_category": {
+     "amount": 50,
+     "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/need-to-know"
+    },
+    "pointguard": {
+     "amount": 50,
+     "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/need-to-know"
+    },
+    "elk_license_if_drawn": {
+     "amount": 506,
+     "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/cost"
+    },
+    "antelope_license_if_drawn": {
+     "amount": 506,
+     "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/cost"
+    },
+    "bonus_deer_license_if_drawn": {
+     "amount": 501,
+     "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/cost"
+    },
+    "wichita_mtns_nwr_elk_user_fee": {
+     "amount": 50,
+     "source_url": "https://www.wildlifedepartment.com/hunting/controlledhunts/cost"
+    }
+   }
+  },
+  "guide_steps": [
+   "Create or log in to GoOutdoorsOklahoma.com.",
+   "Buy a valid Oklahoma hunting license for the current calendar year FIRST. Both residents and nonresidents need it to apply, and it's nonrefundable.",
+   "Between April 1 and May 20 (2026 window), pay the application fee once ($10 resident, $50 nonresident) and apply once per category: Elk (up to 3 choices), Antelope (3), Deer (5). Extra choices are $3 each.",
+   "Groups: elk is individual (2 hunters max for walk-in hunts), antelope is individual only, deer allows up to 4. Group points are averaged. Make sure only ONE person submits the group application.",
+   "Point only: select 'Preference Point Only' in a category, or buy 1 extra point ($10 resident, $50 nonresident). Optional PointGuard protects your points if you can't attend.",
+   "No refunds and no-shows aren't refilled. If drawn, pay license and federal user fees (e.g. nonresident elk $506 plus a $50 permit fee). There's no leftover sale for controlled hunts."
+  ],
+  "sources": [
+   "https://www.wildlifedepartment.com/hunting/controlledhunts",
+   "https://www.wildlifedepartment.com/hunting/controlledhunts/cost",
+   "https://www.wildlifedepartment.com/hunting/controlledhunts/prefpt",
+   "https://www.wildlifedepartment.com/hunting/controlledhunts/need-to-know"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "PA",
+  "agency": "Pennsylvania Game Commission",
+  "agency_url": "https://www.pa.gov/agencies/pgc/huntingandtrapping/get-started-hunting/elk-hunting",
+  "point_system": {
+   "type": "bonus",
+   "species": [
+    "Elk"
+   ],
+   "residents_only": false,
+   "notes": "Starting 2026, PA uses one consolidated bonus-point pool, gaining 1 point per unsuccessful application or point-only purchase. Points reset to 0 when drawn. Each application can list up to 5 season/zone/antlered-or-antlerless choices, with no fallback. Nonresidents are capped at 10% of licenses. There's a limit of one bull per lifetime."
+  },
+  "species": [
+   "Elk"
+  ],
+  "residents_only_notes": "Open to nonresidents, capped at 10% of licenses. Since Jan 1, 2026, every applicant, including nonresidents, must already hold a valid PA general hunting license to apply or buy a point.",
+  "deadlines": [
+   {
+    "species": "Elk",
+    "type": "application",
+    "date": "2027-07 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.pa.gov/services/pgc/apply-for-an-elk-license",
+    "notes": "The 2026 period was May 1 to July 12, 2026 at 11:59 p.m. The 2027 dates aren't published yet."
+   },
+   {
+    "species": "Elk",
+    "type": "point_only",
+    "date": "2027-07 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/pgc/documents/hunttrap/licensesandpermits/2026%20instructions%20for%20issuing%20agents%20manual.pdf",
+    "notes": "A bonus-point-only purchase (code 577) is sold during the same window as the application. You can buy one application OR one point per license year."
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Elk",
+    "type": "results",
+    "date": "2027-07 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.pa.gov/services/pgc/apply-for-an-elk-license",
+    "notes": "In 2026, the drawing concluded Saturday, July 25 at the Elk Expo in Benezette. Winners were notified by phone or email, otherwise by mail."
+   }
+  ],
+  "fees": {
+   "fee_year": "2026-27 license year (PA license year July 1 to June 30)",
+   "resident": {
+    "general_hunting_license_adult": {
+     "amount": 20.97,
+     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/pgc/documents/hunttrap/licensesandpermits/2026%20instructions%20for%20issuing%20agents%20manual.pdf"
+    },
+    "elk_application": {
+     "amount": 11.97,
+     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/pgc/documents/hunttrap/licensesandpermits/2026%20instructions%20for%20issuing%20agents%20manual.pdf",
+     "notes": "one per license year, nonrefundable"
+    },
+    "elk_bonus_point_only": {
+     "amount": 11.97,
+     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/pgc/documents/hunttrap/licensesandpermits/2026%20instructions%20for%20issuing%20agents%20manual.pdf"
+    },
+    "elk_license_if_drawn_antlered_or_antlerless": {
+     "amount": 25.0,
+     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/pgc/documents/hunttrap/licensesandpermits/2026%20instructions%20for%20issuing%20agents%20manual.pdf"
+    }
+   },
+   "nonresident": {
+    "general_hunting_license_adult": {
+     "amount": 101.97,
+     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/pgc/documents/hunttrap/licensesandpermits/2026%20instructions%20for%20issuing%20agents%20manual.pdf"
+    },
+    "elk_application": {
+     "amount": 11.97,
+     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/pgc/documents/hunttrap/licensesandpermits/2026%20instructions%20for%20issuing%20agents%20manual.pdf",
+     "notes": "one per license year"
+    },
+    "elk_bonus_point_only": {
+     "amount": 11.97,
+     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/pgc/documents/hunttrap/licensesandpermits/2026%20instructions%20for%20issuing%20agents%20manual.pdf"
+    },
+    "elk_license_if_drawn_antlered_or_antlerless": {
+     "amount": 250.0,
+     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/pgc/documents/hunttrap/licensesandpermits/2026%20instructions%20for%20issuing%20agents%20manual.pdf"
+    }
+   }
+  },
+  "guide_steps": [
+   "Create a HuntFishPA account (huntfish.pa.gov).",
+   "Buy a PA general hunting license first. Since 2026 it's required to apply or buy a point, even for nonresidents (NR adult $101.97).",
+   "During the application window (May 1 to July 12 in 2026), buy ONE elk application ($11.97). Add up to 5 choices of season (archery, 1st/2nd/3rd regular), elk hunt zone and antlered or antlerless. Use all 5, since there's no fallback.",
+   "You can't apply as a group or party, and you get one application per hunter per year.",
+   "You can edit zone or antler choices in HuntFishPA until the window closes. Switching between application and point-only requires voiding and rebuying.",
+   "If you only want a point, buy the 'Elk Bonus Point Only' ($11.97) instead. You won't be entered in that year's drawing.",
+   "The drawing ends in late July at the Elk Expo in Benezette. If drawn, buy the elk license ($25 resident, $250 nonresident). Points reset to 0, and you can take only one bull per lifetime.",
+   "Unsuccessful applicants automatically gain 1 bonus point. There's no leftover sale for elk."
+  ],
+  "sources": [
+   "https://www.pa.gov/services/pgc/apply-for-an-elk-license",
+   "https://www.pa.gov/agencies/pgc/huntingandtrapping/get-started-hunting/elk-hunting",
+   "https://www.pa.gov/content/dam/copapwp-pagov/en/pgc/documents/hunttrap/licensesandpermits/2026%20instructions%20for%20issuing%20agents%20manual.pdf",
+   "https://www.pa.gov/agencies/pgc/newsroom/highlights-from-today-s-commissioners-meeting5"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "SD",
+  "agency": "South Dakota Game, Fish and Parks",
+  "agency_url": "https://gfp.sd.gov/hunt-fish-license/",
+  "point_system": {
+   "type": "preference",
+   "species": [
+    "Elk",
+    "Deer (East River, West River, Black Hills, Refuge, Muzzleloader, Custer SP)",
+    "Pronghorn (Prairie firearms, Custer SP)",
+    "Bighorn sheep",
+    "Mountain goat"
+   ],
+   "residents_only": false,
+   "notes": "Preference points: 1 per year when unsuccessful for that season. Elk, mountain goat and bighorn get points automatically when you apply and miss. Deer and antelope points must be bought, either by opting in on the application or online from Sept 15 to Dec 15 ($5 resident, $20 nonresident). Points reset when drawn using points. Elk drawn with points means losing them and waiting 9 years for that season. Groups use the lowest member's points. ELK, bighorn and goat are effectively RESIDENT-ONLY (elk fee schedule lists resident prices only). Many deer seasons (Custer SP, East River, Special Buck, Muzzleloader) are resident-only. West River deer and Prairie antelope are open to nonresidents with a small allocation."
+  },
+  "species": [
+   "Elk",
+   "Deer",
+   "Pronghorn",
+   "Bighorn sheep",
+   "Mountain goat"
+  ],
+  "residents_only_notes": "Elk, bighorn and mountain goat are resident-only. East River deer, the Special Buck seasons, Muzzleloader and Custer State Park deer are resident-only. Nonresidents can apply for West River deer, Black Hills deer (check agency site) and Prairie firearms or Special antelope.",
+  "deadlines": [
+   {
+    "species": "Elk",
+    "type": "application",
+    "date": "2027-05 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://gfp.sd.gov/userdocs/docs/2026elk.pdf",
+    "notes": "2026 first draw ran April 15 to May 19 (8 a.m. CDT). Second draw ran May 28 to June 11."
+   },
+   {
+    "species": "Deer (East & West River)",
+    "type": "application",
+    "date": "2027-06 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://gfp.sd.gov/userdocs/docs/combined-deer-app.pdf",
+    "notes": "2026 first draw ran May 27 to June 23 (8 a.m. CDT). Second draw closed July 22, third Aug 12, fourth Sept 1. Leftovers opened Sept 9."
+   },
+   {
+    "species": "Pronghorn (Prairie firearms)",
+    "type": "application",
+    "date": "2027-07 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://gfp.sd.gov/userdocs/docs/firearmsantelope.pdf",
+    "notes": "2026 first draw ran June 16 to July 7 (8 a.m. CDT). Second draw closed July 23."
+   },
+   {
+    "species": "Deer, Pronghorn",
+    "type": "point_only",
+    "date": "2026-12-15",
+    "status": "estimated_from_2026",
+    "source_url": "https://gfp.sd.gov/hunt-fish-license/",
+    "notes": "Point-only purchase online Sept 15 to Dec 15 (published as a standing window), or opt in on the application."
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Elk",
+    "type": "results",
+    "date": "2027-05 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://gfp.sd.gov/userdocs/docs/2026elk.pdf",
+    "notes": "2026: first draw results May 27, second June 15."
+   },
+   {
+    "species": "Deer (East & West River)",
+    "type": "results",
+    "date": "2027-07 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://gfp.sd.gov/userdocs/docs/combined-deer-app.pdf",
+    "notes": "2026: first draw results July 2."
+   },
+   {
+    "species": "Pronghorn (Prairie firearms)",
+    "type": "results",
+    "date": "2027-07 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://gfp.sd.gov/userdocs/docs/firearmsantelope.pdf",
+    "notes": "2026: first draw results July 8."
+   }
+  ],
+  "fees": {
+   "fee_year": "2026",
+   "resident": {
+    "habitat_stamp_18plus": {
+     "amount": 10,
+     "source_url": "https://gfp.sd.gov/hunt-fish-license/"
+    },
+    "elk_application_per_season": {
+     "amount": 10,
+     "source_url": "https://gfp.sd.gov/userdocs/docs/2026elk.pdf",
+     "notes": "nonrefundable"
+    },
+    "any_elk_license": {
+     "amount": 195,
+     "source_url": "https://gfp.sd.gov/userdocs/docs/2026elk.pdf"
+    },
+    "antlerless_elk_license": {
+     "amount": 127,
+     "source_url": "https://gfp.sd.gov/userdocs/docs/2026elk.pdf"
+    },
+    "custer_sp_any_elk": {
+     "amount": 306,
+     "source_url": "https://gfp.sd.gov/userdocs/docs/2026elk.pdf"
+    },
+    "preference_point": {
+     "amount": 5,
+     "source_url": "https://gfp.sd.gov/hunt-fish-license/"
+    },
+    "deer_one_any_deer": {
+     "amount": 45,
+     "source_url": "https://gfp.sd.gov/userdocs/docs/combined-deer-app.pdf"
+    },
+    "deer_one_antlerless": {
+     "amount": 24,
+     "source_url": "https://gfp.sd.gov/userdocs/docs/combined-deer-app.pdf"
+    },
+    "antelope_firearm_prairie": {
+     "amount": 45,
+     "source_url": "https://gfp.sd.gov/userdocs/docs/firearmsantelope.pdf"
+    },
+    "special_antelope": {
+     "amount": 200,
+     "source_url": "https://gfp.sd.gov/userdocs/docs/firearmsantelope.pdf"
+    },
+    "license_return_fee": {
+     "amount": 10,
+     "source_url": "https://gfp.sd.gov/userdocs/docs/combined-deer-app.pdf",
+     "notes": "new for 2026, deadline Aug 1"
+    }
+   },
+   "nonresident": {
+    "habitat_stamp_18plus": {
+     "amount": 25,
+     "source_url": "https://gfp.sd.gov/hunt-fish-license/"
+    },
+    "elk_application": {
+     "amount": null,
+     "source_url": "https://gfp.sd.gov/userdocs/docs/2026elk.pdf",
+     "notes": "Elk is resident-only"
+    },
+    "preference_point": {
+     "amount": 20,
+     "source_url": "https://gfp.sd.gov/hunt-fish-license/"
+    },
+    "deer_one_any_deer": {
+     "amount": 375,
+     "source_url": "https://gfp.sd.gov/userdocs/docs/combined-deer-app.pdf"
+    },
+    "deer_one_antlerless": {
+     "amount": 100,
+     "source_url": "https://gfp.sd.gov/userdocs/docs/combined-deer-app.pdf"
+    },
+    "deer_any_deer_plus_antlerless": {
+     "amount": 425,
+     "source_url": "https://gfp.sd.gov/userdocs/docs/combined-deer-app.pdf"
+    },
+    "antelope_firearm_prairie": {
+     "amount": 375,
+     "source_url": "https://gfp.sd.gov/userdocs/docs/firearmsantelope.pdf"
+    },
+    "special_antelope": {
+     "amount": 650,
+     "source_url": "https://gfp.sd.gov/userdocs/docs/firearmsantelope.pdf"
+    },
+    "license_return_fee": {
+     "amount": 30,
+     "source_url": "https://gfp.sd.gov/userdocs/docs/combined-deer-app.pdf"
+    }
+   }
+  },
+  "guide_steps": [
+   "Create or log in to your GFP account at gfp.sd.gov. All draw applications are online only, and you'll need the last 4 digits of your SSN.",
+   "You don't need a base license to apply. Your card is charged only if you draw or opt into a preference point. Anyone 18+ also needs a Habitat Stamp ($10 resident, $25 nonresident).",
+   "Pick the season (Elk, West River deer, East River deer, Black Hills, Prairie antelope, etc.) and up to the allowed choices. Residents can apply for 2 of the 6 firearm deer seasons in the first draw.",
+   "Groups: up to 6 people (only 2 for elk, none for bighorn or goat). The group uses the lowest point balance. Residents and nonresidents can group where both are allowed.",
+   "Elk, bighorn and goat applications cost $10 (nonrefundable) and earn a point automatically if you miss. For deer and antelope, tick the preference-point option ($5 resident, $20 nonresident) or buy a point online Sept 15 to Dec 15.",
+   "Results come about 1-2 weeks after each deadline. There are 2-4 sequential draws, so unsuccessful or unused tags roll into the next draw.",
+   "Leftover licenses sell first come, first served after the final draw (deer leftovers from Sept 9 in 2026). Returned licenses cost $10 resident or $30 nonresident to return by Aug 1, and make you ineligible for later draws that season."
+  ],
+  "sources": [
+   "https://gfp.sd.gov/hunt-fish-license/",
+   "https://gfp.sd.gov/userdocs/docs/2026elk.pdf",
+   "https://gfp.sd.gov/userdocs/docs/combined-deer-app.pdf",
+   "https://gfp.sd.gov/userdocs/docs/firearmsantelope.pdf",
+   "https://gfp.sd.gov/license-types/"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "TN",
+  "agency": "Tennessee Wildlife Resources Agency",
+  "agency_url": "https://www.tn.gov/twra/hunting/quota-hunts/elk-and-youth-elk-hunts.html",
+  "point_system": {
+   "type": "none (elk); priority/preference (WMA big game quota hunts)",
+   "species": [
+    "Elk",
+    "WMA big game quota hunts (deer, bear)"
+   ],
+   "residents_only": false,
+   "notes": "The elk quota hunt is random with NO priority points. Up to 4 hunt (zone) choices, no parties. Nonresidents get at most 25% of successful applicants. Drawn applicants can't reapply for 10 years. The youth elk hunt is resident-only. Separate WMA Big Game quota hunts use priority points: 1 per unsuccessful year, sorted highest-first, reset to 0 when drawn, and averaged within a party."
+  },
+  "species": [
+   "Elk",
+   "Deer (WMA quota)",
+   "Black bear (WMA quota)"
+  ],
+  "residents_only_notes": "Nonresidents can apply for the regular elk quota hunt (max 25% of winners). The Young Sportsman elk permit is resident youth only (ages 13-16).",
+  "deadlines": [
+   {
+    "species": "Elk",
+    "type": "application",
+    "date": "2027-02-24",
+    "status": "confirmed_2027",
+    "source_url": "https://www.eregulations.com/assets/docs/guides/26TNAB_LR_2026-09-11-183754_qwru.pdf",
+    "notes": "2027 elk quota application period is Feb 3-24, 2027 (TWRA 2026-27 Hunting Guide). 2026 deadline was midnight CST Feb 25."
+   },
+   {
+    "species": "Elk",
+    "type": "point_only",
+    "date": "n/a",
+    "status": "confirmed_2027",
+    "source_url": "https://www.eregulations.com/assets/docs/guides/26TNAB_LR_2026-09-11-183754_qwru.pdf",
+    "notes": "No priority points for elk."
+   },
+   {
+    "species": "WMA Big Game (deer/bear quota)",
+    "type": "application",
+    "date": "2027-07-21",
+    "status": "confirmed_2027",
+    "source_url": "https://www.eregulations.com/assets/docs/guides/26TNAB_LR_2026-09-11-183754_qwru.pdf",
+    "notes": "WMA Big Game application period June 9 to July 21, 2027."
+   },
+   {
+    "species": "WMA Big Game (deer/bear quota)",
+    "type": "point_only",
+    "date": "2027-07-21",
+    "status": "confirmed_2027",
+    "source_url": "https://www.tn.gov/twra/hunting/quota-hunts.html",
+    "notes": "Point-only applications are individual only, and you can't also enter the drawing that year."
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Elk",
+    "type": "results",
+    "date": "check agency site",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.eregulations.com/assets/docs/guides/26TNAB_LR_2026-09-11-183754_qwru.pdf",
+    "notes": "2026 permits were drawn in Feb 2026. Results post in your GoOutdoorsTennessee account."
+   }
+  ],
+  "fees": {
+   "fee_year": "2026-27 license year",
+   "resident": {
+    "combo_hunt_fish_16_64": {
+     "amount": 33,
+     "source_url": "https://www.eregulations.com/assets/docs/guides/26TNAB_LR_2026-09-11-183754_qwru.pdf"
+    },
+    "big_game_gun_supplemental": {
+     "amount": 33,
+     "source_url": "https://www.eregulations.com/assets/docs/guides/26TNAB_LR_2026-09-11-183754_qwru.pdf"
+    },
+    "big_game_archery_supplemental": {
+     "amount": 33,
+     "source_url": "https://www.eregulations.com/assets/docs/guides/26TNAB_LR_2026-09-11-183754_qwru.pdf"
+    },
+    "big_game_muzzleloader_supplemental": {
+     "amount": 33,
+     "source_url": "https://www.eregulations.com/assets/docs/guides/26TNAB_LR_2026-09-11-183754_qwru.pdf"
+    },
+    "quota_application": {
+     "amount": 12,
+     "source_url": "https://www.tn.gov/twra/hunting/quota-hunts.html",
+     "notes": "plus vendor fee. Nonrefundable. Waived for Annual, Lifetime or Senior Sportsman holders."
+    },
+    "elk_permit_if_drawn": {
+     "amount": "check agency site",
+     "source_url": "https://www.tn.gov/twra/hunting/quota-hunts/elk-and-youth-elk-hunts.html"
+    },
+    "wma_big_game_non_quota_permit": {
+     "amount": 24,
+     "source_url": "https://www.eregulations.com/assets/docs/guides/26TNAB_LR_2026-09-11-183754_qwru.pdf"
+    }
+   },
+   "nonresident": {
+    "annual_all_game": {
+     "amount": 305,
+     "source_url": "https://www.eregulations.com/assets/docs/guides/26TNAB_LR_2026-09-11-183754_qwru.pdf"
+    },
+    "seven_day_all_game": {
+     "amount": 214,
+     "source_url": "https://www.eregulations.com/assets/docs/guides/26TNAB_LR_2026-09-11-183754_qwru.pdf"
+    },
+    "quota_application": {
+     "amount": 12,
+     "source_url": "https://www.tn.gov/twra/hunting/quota-hunts.html",
+     "notes": "plus vendor fee, nonrefundable"
+    },
+    "elk_permit_if_drawn": {
+     "amount": "check agency site",
+     "source_url": "https://www.tn.gov/twra/hunting/quota-hunts/elk-and-youth-elk-hunts.html"
+    }
+   }
+  },
+  "guide_steps": [
+   "Create a GoOutdoorsTennessee.com account (or use the TWRA On The Go app, a license agent, or a regional office). You can't apply by mail.",
+   "You don't need a license to apply. You need the proper big-game license to hunt (resident combo $33 plus a big game supplemental, or nonresident All Game $305 annual or $214 7-day).",
+   "Elk: during the application window (Feb 3-24, 2027), submit one elk quota application ($12 plus vendor fee, nonrefundable). You must be 16 or older. Pick up to 4 Elk Hunt Zone choices in order of preference.",
+   "No parties are allowed for elk. You can edit your application until the deadline.",
+   "Drawing is random (no points). Check results in your account after the drawing. Winners can't reapply for 10 years.",
+   "There's no elk point-only option and no elk leftover sale. For WMA deer and bear quota hunts (June 9-July 21, 2027), you can apply as a party or buy point-only (individual). Unsuccessful applicants gain 1 priority point, and leftover permits don't affect points."
+  ],
+  "sources": [
+   "https://www.tn.gov/twra/hunting/quota-hunts/elk-and-youth-elk-hunts.html",
+   "https://www.tn.gov/twra/hunting/quota-hunts.html",
+   "https://www.eregulations.com/assets/docs/guides/26TNAB_LR_2026-09-11-183754_qwru.pdf",
+   "https://www.tn.gov/twra/news/2026/2/1/2026-elk-quota-hunt-application-period-open-february-4-25.html"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "TX",
+  "agency": "Texas Parks and Wildlife Department",
+  "agency_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/",
+  "point_system": {
+   "type": "weighted (Loyalty Points, cubed)",
+   "species": [
+    "Deer",
+    "Mule deer",
+    "Pronghorn",
+    "Exotics",
+    "Bighorn sheep (guided package)",
+    "Alligator",
+    "Javelina",
+    "Turkey",
+    "Feral hog"
+   ],
+   "residents_only": false,
+   "notes": "Loyalty Points were formerly called Preference Points. You earn 1 point per category per season when you apply. Points apply to every application in that category, are CUBED in the drawing, and reset to zero when you're drawn. Group points are averaged (round half up). USFS and E-Postcard hunts earn no points."
+  },
+  "species": [
+   "Deer",
+   "Mule deer",
+   "Pronghorn",
+   "Bighorn sheep",
+   "Exotics"
+  ],
+  "residents_only_notes": "Drawn hunts are generally open to residents and nonresidents. Check each hunt's eligibility in the catalog. Nonresidents must hold the Non-resident General Hunting License ($315) to hunt deer, pronghorn or bighorn.",
+  "deadlines": [
+   {
+    "species": "Pronghorn / Archery Deer / Archery Mule Deer",
+    "type": "application",
+    "date": "2027 season: check agency site",
+    "status": "estimated_from_2026",
+    "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/deadlines.phtml",
+    "notes": "The 2026-27 application deadline was August 15, 2026. Expect a similar date in 2027."
+   },
+   {
+    "species": "Gun Deer (Either Sex, Antlerless/Spike, Management)",
+    "type": "application",
+    "date": "2027 season: check agency site",
+    "status": "estimated_from_2026",
+    "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/deadlines.phtml",
+    "notes": "The 2026-27 application deadline was September 15, 2026. Expect a similar date in 2027."
+   },
+   {
+    "species": "Gun Mule Deer",
+    "type": "application",
+    "date": "2027 season: check agency site",
+    "status": "estimated_from_2026",
+    "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/deadlines.phtml",
+    "notes": "The 2026-27 application deadline was October 1, 2026. Expect a similar date in 2027."
+   },
+   {
+    "species": "Exotic",
+    "type": "application",
+    "date": "2027 season: check agency site",
+    "status": "estimated_from_2026",
+    "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/deadlines.phtml",
+    "notes": "The 2026-27 application deadline was October 15, 2026. Expect a similar date in 2027."
+   },
+   {
+    "species": "Guided Bighorn Sheep Hunt Package",
+    "type": "application",
+    "date": "2027 season: check agency site",
+    "status": "estimated_from_2026",
+    "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/deadlines.phtml",
+    "notes": "The 2026-27 application deadline was November 1, 2026. Expect a similar date in 2027."
+   },
+   {
+    "species": "All drawn-hunt categories",
+    "type": "point_only",
+    "date": "n/a",
+    "status": "n/a",
+    "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/loyalty-points.phtml",
+    "notes": "No point-only option. Loyalty Points accrue only when you submit an application in a category."
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Pronghorn / Archery Deer / Archery Mule Deer",
+    "type": "results",
+    "date": "2027 season: check agency site",
+    "status": "estimated_from_2026",
+    "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/deadlines.phtml",
+    "notes": "In 2026 the proposed initial draw was August 16, 2026. The anticipated permit-purchase deadline was August 26, 2026."
+   },
+   {
+    "species": "Gun Deer (Either Sex, Antlerless/Spike, Management)",
+    "type": "results",
+    "date": "2027 season: check agency site",
+    "status": "estimated_from_2026",
+    "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/deadlines.phtml",
+    "notes": "In 2026 the proposed initial draw was September 16, 2026. The anticipated permit-purchase deadline was September 26, 2026."
+   },
+   {
+    "species": "Gun Mule Deer",
+    "type": "results",
+    "date": "2027 season: check agency site",
+    "status": "estimated_from_2026",
+    "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/deadlines.phtml",
+    "notes": "In 2026 the proposed initial draw was October 2, 2026. The anticipated permit-purchase deadline was October 12, 2026."
+   },
+   {
+    "species": "Exotic",
+    "type": "results",
+    "date": "2027 season: check agency site",
+    "status": "estimated_from_2026",
+    "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/deadlines.phtml",
+    "notes": "In 2026 the proposed initial draw was October 16, 2026. The anticipated permit-purchase deadline was October 26, 2026."
+   },
+   {
+    "species": "Guided Bighorn Sheep Hunt Package",
+    "type": "results",
+    "date": "2027 season: check agency site",
+    "status": "estimated_from_2026",
+    "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/deadlines.phtml",
+    "notes": "In 2026 the proposed initial draw was November 2, 2026. The anticipated permit-purchase deadline was November 12, 2026."
+   }
+  ],
+  "fees": {
+   "fee_year": "2026-27",
+   "resident": {
+    "hunting_license": {
+     "amount": 25,
+     "source_url": "https://tpwd.texas.gov/regulations/outdoor-annual/licenses/hunting-licenses-and-permits/hunting-licenses",
+     "notes": "Resident Hunting License (item 101)"
+    },
+    "application_fee_per_adult": {
+     "amount": 3,
+     "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/fees.phtml",
+     "notes": "Private Lands and Guided categories cost $10. Youth-only hunts are free. Nonrefundable."
+    },
+    "application_fee_private_or_guided": {
+     "amount": 10,
+     "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/fees.phtml"
+    },
+    "special_permit_fee_standard_hunt": {
+     "amount": 80,
+     "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/fees.phtml",
+     "notes": "2-3 day hunt, adults only"
+    },
+    "special_permit_fee_extended_hunt": {
+     "amount": 130,
+     "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/fees.phtml",
+     "notes": "4-5 day hunt"
+    },
+    "guided_bighorn_package": {
+     "amount": "check agency site",
+     "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/hunt-categories.phtml"
+    }
+   },
+   "nonresident": {
+    "hunting_license": {
+     "amount": 315,
+     "source_url": "https://tpwd.texas.gov/regulations/outdoor-annual/licenses/hunting-licenses-and-permits/hunting-licenses",
+     "notes": "Non-resident General Hunting License (item 105). Required for deer, pronghorn and bighorn."
+    },
+    "application_fee_per_adult": {
+     "amount": 3,
+     "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/fees.phtml"
+    },
+    "application_fee_private_or_guided": {
+     "amount": 10,
+     "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/fees.phtml"
+    },
+    "special_permit_fee_standard_hunt": {
+     "amount": 80,
+     "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/fees.phtml"
+    },
+    "special_permit_fee_extended_hunt": {
+     "amount": 130,
+     "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/fees.phtml"
+    },
+    "guided_bighorn_package": {
+     "amount": "check agency site",
+     "source_url": "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/hunt-categories.phtml"
+    }
+   }
+  },
+  "guide_steps": [
+   "Create an account in the Texas Public Hunt System (tpwd.texas.gov drawn hunts, 'Create Account').",
+   "Pick hunts from the 2026-27 Drawn Hunt Catalog. Each category has its own deadline (pronghorn Aug 15, gun deer Sep 15, gun mule deer Oct 1, exotic Oct 15, guided bighorn Nov 1 in 2026).",
+   "Apply individually or as a group. Group Loyalty Points are averaged. Pay $3 per adult per application ($10 for Private Lands or Guided). It's nonrefundable.",
+   "Every application earns 1 Loyalty Point in that category. There's no separate point-only purchase.",
+   "If drawn, buy the permit by the permit deadline: $80 standard, $130 extended. You also need a Texas hunting license ($25 resident, $315 nonresident general) and any required endorsements. If the initial winners don't buy, there's a secondary permit deadline.",
+   "Other options: the Annual Public Hunting Permit (separate) covers USFS and E-Postcard hunts, which have no application fee and earn no points."
+  ],
+  "sources": [
+   "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/deadlines.phtml",
+   "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/fees.phtml",
+   "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/loyalty-points.phtml",
+   "https://tpwd.texas.gov/huntwild/hunt/public/public_hunt_drawing/hunt-categories.phtml",
+   "https://tpwd.texas.gov/regulations/outdoor-annual/licenses/hunting-licenses-and-permits/hunting-licenses"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "VA",
+  "agency": "Virginia Department of Wildlife Resources",
+  "agency_url": "https://dwr.virginia.gov/wildlife/elk/hunting/elk-lottery/",
+  "point_system": {
+   "type": "none",
+   "species": [
+    "Elk"
+   ],
+   "residents_only": false,
+   "notes": "Random-number lottery with no preference or bonus points. In 2026 there were only 5 antlered licenses. One must go to a resident of the elk management zone, and at most 1 can go to an out-of-state hunter. Winners can't reapply for 3 consecutive years. Alternates are drawn at the same time."
+  },
+  "species": [
+   "Elk"
+  ],
+  "residents_only_notes": "Nonresidents may apply but can win at most 1 license per year.",
+  "deadlines": [
+   {
+    "species": "Elk",
+    "type": "application",
+    "date": "2027-03-31 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://dwr.virginia.gov/wildlife/elk/hunting/elk-lottery/",
+    "notes": "2026 application period was Feb 1 to Mar 31, 2026."
+   },
+   {
+    "species": "Elk",
+    "type": "point_only",
+    "date": "n/a",
+    "status": "confirmed_2027",
+    "source_url": "https://dwr.virginia.gov/wildlife/elk/hunting/elk-lottery/",
+    "notes": "No points."
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Elk",
+    "type": "results",
+    "date": "2027-05-30 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://dwr.virginia.gov/wildlife/elk/hunting/elk-lottery/",
+    "notes": "2026 winners were notified by May 30. Winners have 30 days from notification to buy the license."
+   }
+  ],
+  "fees": {
+   "fee_year": "current DWR license fee schedule. The elk lottery page still lists older 2026 amounts ($15/$20 application, $40/$400 license).",
+   "resident": {
+    "license_to_hunt_1yr_16plus": {
+     "amount": 28,
+     "source_url": "https://dwr.virginia.gov/hunting/regulations/licenses/"
+    },
+    "elk_lottery_application": {
+     "amount": 20,
+     "source_url": "https://dwr.virginia.gov/hunting/regulations/licenses/",
+     "notes": "nonrefundable. The 2026 lottery page said $15."
+    },
+    "special_elk_license_if_drawn": {
+     "amount": 41,
+     "source_url": "https://dwr.virginia.gov/hunting/regulations/licenses/",
+     "notes": "The 2026 lottery page said $40."
+    },
+    "deer_turkey_license": {
+     "amount": 28,
+     "source_url": "https://dwr.virginia.gov/hunting/regulations/licenses/"
+    }
+   },
+   "nonresident": {
+    "license_to_hunt_16plus": {
+     "amount": 136,
+     "source_url": "https://dwr.virginia.gov/hunting/regulations/licenses/"
+    },
+    "elk_lottery_application": {
+     "amount": 25,
+     "source_url": "https://dwr.virginia.gov/hunting/regulations/licenses/",
+     "notes": "nonrefundable. The 2026 lottery page said $20."
+    },
+    "special_elk_license_if_drawn": {
+     "amount": 401,
+     "source_url": "https://dwr.virginia.gov/hunting/regulations/licenses/",
+     "notes": "The 2026 lottery page said $400."
+    }
+   }
+  },
+  "guide_steps": [
+   "Create or log in to Go Outdoors Virginia (gooutdoorsvirginia.com), or call DWR customer service to apply by phone.",
+   "You don't need a license to apply. Winners must buy a VA hunting license plus the special elk license.",
+   "Apply during the window (Feb 1 to Mar 31 in 2026). The application fee is nonrefundable.",
+   "There are no groups or parties and no points. Each applicant gets a random number, and licenses are offered in number order (1 zone-resident slot, max 1 nonresident).",
+   "Winners are notified by about May 30 and have 30 days to buy the special elk license. Unbought licenses go to pre-drawn alternates.",
+   "There's no leftover or over-the-counter sale for zone elk. Winners sit out 3 years."
+  ],
+  "sources": [
+   "https://dwr.virginia.gov/wildlife/elk/hunting/elk-lottery/",
+   "https://dwr.virginia.gov/hunting/regulations/licenses/",
+   "https://dwr.virginia.gov/wildlife/elk/hunting/"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "VT",
+  "agency": "Vermont Fish & Wildlife Department",
+  "agency_url": "https://www.vtfishandwildlife.com/licenses-and-lotteries/lotteries/moose-lottery",
+  "point_system": {
+   "type": "bonus",
+   "species": [
+    "Moose"
+   ],
+   "residents_only": false,
+   "notes": "Moose uses bonus points: unsuccessful applicants gain a point, but only with consecutive annual applications, and missing a year loses them. You can buy a bonus point only. Anyone who held a permit in the past 5 years can't apply or buy a point. In 2026 there were 79 lottery permits, all in WMU E1/E2, plus 5 veteran permits, 3 Special Opportunity permits and 3 auctioned permits. Vermont also runs an antlerless deer muzzleloader lottery, which isn't detailed here."
+  },
+  "species": [
+   "Moose"
+  ],
+  "residents_only_notes": "Open to nonresidents, who pay higher fees. Check the agency site for any nonresident cap.",
+  "deadlines": [
+   {
+    "species": "Moose",
+    "type": "application",
+    "date": "2027-06 (mid-June; check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.vtfishandwildlife.com/press-releases/vermont-moose-hunt-application-deadline-june-17",
+    "notes": "The 2026 lottery opened in April and the deadline was June 17, 2026."
+   },
+   {
+    "species": "Moose",
+    "type": "point_only",
+    "date": "2027-06 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.vtfishandwildlife.com/press-releases/vermont-moose-hunt-application-deadline-june-17",
+    "notes": "Bonus-point purchase on the same application and deadline. Point-only fee: check agency site."
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Moose",
+    "type": "results",
+    "date": "2027-07 (check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://www.vtfishandwildlife.com/press-releases/vermont-moose-hunt-application-deadline-june-17",
+    "notes": "The 2026 drawing was scheduled for July 15. Look up winners on the VT F&W site."
+   }
+  ],
+  "fees": {
+   "fee_year": "2026",
+   "resident": {
+    "hunting_license": {
+     "amount": 28,
+     "source_url": "https://legislature.vermont.gov/statutes/section/10/105/04255"
+    },
+    "moose_lottery_application": {
+     "amount": 10,
+     "source_url": "https://www.vtfishandwildlife.com/press-releases/vermont-allocates-moose-hunting-permits-2026"
+    },
+    "moose_permit_if_drawn": {
+     "amount": 100,
+     "source_url": "https://www.vtfishandwildlife.com/press-releases/vermont-allocates-moose-hunting-permits-2026"
+    },
+    "bonus_point_only": {
+     "amount": "check agency site",
+     "source_url": "https://www.vtfishandwildlife.com/licenses-and-lotteries/lotteries/moose-lottery"
+    }
+   },
+   "nonresident": {
+    "hunting_license": {
+     "amount": 102,
+     "source_url": "https://legislature.vermont.gov/statutes/section/10/105/04255"
+    },
+    "moose_lottery_application": {
+     "amount": 25,
+     "source_url": "https://www.vtfishandwildlife.com/press-releases/vermont-allocates-moose-hunting-permits-2026"
+    },
+    "moose_permit_if_drawn": {
+     "amount": 350,
+     "source_url": "https://www.vtfishandwildlife.com/press-releases/vermont-allocates-moose-hunting-permits-2026"
+    },
+    "bonus_point_only": {
+     "amount": "check agency site",
+     "source_url": "https://www.vtfishandwildlife.com/licenses-and-lotteries/lotteries/moose-lottery"
+    }
+   }
+  },
+  "guide_steps": [
+   "Create or log in to your Vermont Fish & Wildlife online license account.",
+   "You don't need a license to apply, but winners must hold a current-year VT hunting or combination license ($28 resident, $102 nonresident) plus buy the moose permit.",
+   "Apply online when the lottery opens (April) through the mid-June deadline ($10 resident, $25 nonresident). Choose archery (Oct 1-7) or regular season and the permit type.",
+   "No group applications. Apply EVERY year (or buy a bonus point) to keep your points.",
+   "The drawing is in mid-July. Winners buy the moose permit ($100 resident, $350 nonresident).",
+   "There's no leftover sale. A moose permit auction (min bid $1,500, deadline in early August) is the backup option."
+  ],
+  "sources": [
+   "https://www.vtfishandwildlife.com/licenses-and-lotteries/lotteries/moose-lottery",
+   "https://www.vtfishandwildlife.com/press-releases/vermont-moose-hunt-application-deadline-june-17",
+   "https://www.vtfishandwildlife.com/press-releases/vermont-allocates-moose-hunting-permits-2026",
+   "https://legislature.vermont.gov/statutes/section/10/105/04255",
+   "https://anrweb.vt.gov/FWD/FW/mooselotterybonuspointlookup.aspx"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "WI",
+  "agency": "Wisconsin Department of Natural Resources",
+  "agency_url": "https://dnr.wisconsin.gov/topic/hunt/elkhunting",
+  "point_system": {
+   "type": "none (elk); preference (bear)",
+   "species": [
+    "Elk",
+    "Black bear"
+   ],
+   "residents_only": true,
+   "notes": "Elk is a random draw with no points. You can buy 1 bull and 1 antlerless application per year, but you can only draw an elk license once in your lifetime. Elk is resident-only while the state allocates 100 or fewer licenses (exceptions for nonresident Purple Heart and Armed Forces members). Bear uses a cumulative preference-point drawing for Class A licenses, open to nonresidents."
+  },
+  "species": [
+   "Elk",
+   "Black bear"
+  ],
+  "residents_only_notes": "ELK IS RESIDENT-ONLY whenever 100 or fewer licenses are allocated, which is the current situation. Bear is open to nonresidents.",
+  "deadlines": [
+   {
+    "species": "Elk",
+    "type": "application",
+    "date": "2027-05-31",
+    "status": "estimated_from_2026",
+    "source_url": "https://dnr.wisconsin.gov/topic/Hunt/regulations/OnlineHuntingRegulations/LicensingRequirementsPermitApplicationDeadlines",
+    "notes": "2026 window was March 1 to May 31. The DNR deadline table lists elk as due May 31 every year."
+   },
+   {
+    "species": "Elk",
+    "type": "point_only",
+    "date": "n/a",
+    "status": "confirmed_2027",
+    "source_url": "https://dnr.wisconsin.gov/topic/hunt/elkhunting",
+    "notes": "No elk points."
+   },
+   {
+    "species": "Black bear",
+    "type": "application",
+    "date": "2026-12-10",
+    "status": "confirmed_2027",
+    "source_url": "https://dnr.wisconsin.gov/topic/hunt/bear",
+    "notes": "For the 2027 season. DNR: 'The deadline for bear season applications is always December 10, before the season begins.'"
+   },
+   {
+    "species": "Black bear",
+    "type": "point_only",
+    "date": "2026-12-10",
+    "status": "confirmed_2027",
+    "source_url": "https://dnr.wisconsin.gov/topic/hunt/bear",
+    "notes": "Choose the preference-point-only option on the bear application."
+   }
+  ],
+  "results_dates": [
+   {
+    "species": "Elk",
+    "type": "results",
+    "date": "2027-06 (early June; check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://dnr.wisconsin.gov/topic/hunt/elkhunting",
+    "notes": "DNR elk staff notify winners in early June."
+   },
+   {
+    "species": "Black bear",
+    "type": "results",
+    "date": "2027-02 (early February; check agency site)",
+    "status": "estimated_from_2026",
+    "source_url": "https://dnr.wisconsin.gov/topic/Hunt/regulations/OnlineHuntingRegulations/LicensingRequirementsPermitApplicationDeadlines",
+    "notes": "The DNR table lists the bear drawing date as early February."
+   }
+  ],
+  "fees": {
+   "fee_year": "current DNR license fee table (2026-27)",
+   "resident": {
+    "elk_application_bull_or_antlerless": {
+     "amount": 10,
+     "source_url": "https://dnr.wisconsin.gov/topic/Hunt/regulations/OnlineHuntingRegulations/LicensingRequirementsLicenseFees",
+     "notes": "each"
+    },
+    "elk_license_if_drawn": {
+     "amount": 49,
+     "source_url": "https://dnr.wisconsin.gov/topic/Hunt/regulations/OnlineHuntingRegulations/LicensingRequirementsLicenseFees"
+    },
+    "bear_application_or_point": {
+     "amount": 4.5,
+     "source_url": "https://dnr.wisconsin.gov/topic/Hunt/regulations/OnlineHuntingRegulations/LicensingRequirementsLicenseFees"
+    },
+    "bear_class_a_license_if_drawn": {
+     "amount": 49,
+     "source_url": "https://dnr.wisconsin.gov/topic/Hunt/regulations/OnlineHuntingRegulations/LicensingRequirementsLicenseFees"
+    },
+    "gun_deer_license_otc": {
+     "amount": 24,
+     "source_url": "https://dnr.wisconsin.gov/topic/Hunt/regulations/OnlineHuntingRegulations/LicensingRequirementsLicenseFees"
+    }
+   },
+   "nonresident": {
+    "elk_application": {
+     "amount": null,
+     "source_url": "https://dnr.wisconsin.gov/topic/Hunt/regulations/OnlineHuntingRegulations/LicensingRequirementsLicenseFees",
+     "notes": "N/A, elk is resident-only"
+    },
+    "bear_application_or_point": {
+     "amount": 4.5,
+     "source_url": "https://dnr.wisconsin.gov/topic/Hunt/regulations/OnlineHuntingRegulations/LicensingRequirementsLicenseFees"
+    },
+    "bear_class_a_license_if_drawn": {
+     "amount": 251,
+     "source_url": "https://dnr.wisconsin.gov/topic/Hunt/regulations/OnlineHuntingRegulations/LicensingRequirementsLicenseFees"
+    },
+    "gun_deer_license_otc": {
+     "amount": 200,
+     "source_url": "https://dnr.wisconsin.gov/topic/Hunt/regulations/OnlineHuntingRegulations/LicensingRequirementsLicenseFees"
+    }
+   }
+  },
+  "guide_steps": [
+   "Create or log in to a Go Wild account (gowild.wi.gov) or visit a license agent.",
+   "You don't need a license to apply. Winners buy the license after the draw.",
+   "ELK (residents only): between March 1 and May 31, buy a Bull Elk Application and/or an Antlerless Elk Application ($10 each), and pick a unit or unit group with a quota.",
+   "There are no groups or points for elk. Applications are nonrefundable.",
+   "Elk winners are notified in early June, must take the mandatory DNR elk hunter education course, then buy the $49 elk license. It's a once-in-a-lifetime license, and transferring it makes both people ineligible for the future.",
+   "BEAR: by Dec 10, apply on Go Wild ($4.50), choosing a zone or the preference-point-only option. If you're not drawn, you gain 1 point.",
+   "Bear drawing results come out in early February. Winners buy the Class A bear license ($49 resident, $251 nonresident).",
+   "There's no leftover sale for elk. Bear and elk awards can be transferred under the DNR permit-transfer rules."
+  ],
+  "sources": [
+   "https://dnr.wisconsin.gov/topic/hunt/elkhunting",
+   "https://dnr.wisconsin.gov/topic/hunt/bear",
+   "https://dnr.wisconsin.gov/topic/Hunt/regulations/OnlineHuntingRegulations/LicensingRequirementsLicenseFees",
+   "https://dnr.wisconsin.gov/topic/Hunt/regulations/OnlineHuntingRegulations/LicensingRequirementsPermitApplicationDeadlines",
+   "https://dnr.wisconsin.gov/newsroom/release/123136"
+  ],
+  "last_verified": "2026-11-10"
+ },
+ {
+  "state": "WV",
+  "agency": "West Virginia Division of Natural Resources",
+  "agency_url": "https://wvdnr.gov/",
+  "point_system": {
+   "type": "none",
+   "species": [],
+   "residents_only": false,
+   "notes": "There's NO elk hunting season. The 2026-27 WV hunting regulations list elk under 'No Open Season'. WV has no points-based big-game draw. Its only lottery is for some antlerless deer, bear and special hunts. Check the WVDNR site for the lottery."
+  },
+  "species": [],
+  "residents_only_notes": "No elk season for residents or nonresidents.",
+  "deadlines": [
+   {
+    "species": "Elk",
+    "type": "application",
+    "date": "n/a (no elk season)",
+    "status": "confirmed_2027",
+    "source_url": "https://wvdnr.gov/wp-content/uploads/2026/06/Pub_Regs_HuntTrap_202627_DNR_WILD_20260629.pdf",
+    "notes": "Elk listed under 'No Open Season' in the 2026-27 regulations. The 2027-28 regulations aren't published yet."
+   }
+  ],
+  "results_dates": [],
+  "fees": {
+   "fee_year": "2026-27",
+   "resident": {
+    "elk": {
+     "amount": null,
+     "source_url": "https://wvdnr.gov/wp-content/uploads/2026/06/Pub_Regs_HuntTrap_202627_DNR_WILD_20260629.pdf",
+     "notes": "No season"
+    }
+   },
+   "nonresident": {
+    "elk": {
+     "amount": null,
+     "source_url": "https://wvdnr.gov/wp-content/uploads/2026/06/Pub_Regs_HuntTrap_202627_DNR_WILD_20260629.pdf",
+     "notes": "No season"
+    }
+   }
+  },
+  "guide_steps": [
+   "West Virginia doesn't currently allow elk hunting (no open season), so there's no elk application.",
+   "Watch WVDNR (wvdnr.gov) for any future elk season announcement."
+  ],
+  "sources": [
+   "https://wvdnr.gov/wp-content/uploads/2026/06/Pub_Regs_HuntTrap_202627_DNR_WILD_20260629.pdf"
+  ],
+  "last_verified": "2026-11-10"
+ }
+]
